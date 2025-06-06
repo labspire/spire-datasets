@@ -1,17 +1,16 @@
-## RESPIN S1.0 CORPUS ##
+## RESPIN-S1.0 CORPUS ##
 
-As a part of the RESPIN project, crowdsource read-speech data is being released. Audio and text files
-are made available to the public, promoting innovation in Automatic Speech Recognition for Indian languages.
+As a part of the RESPIN project, crowdsource read-speech data is being released. Audio, text files, and lexicons are made available to the public, promoting innovation in Automatic Speech Recognition for Indian languages.
 
 ## Data Statistics ##
 
 - Type: Parallel Speech and Text
-- Language(s): Bengali (BN), Bhojpuri (BH), Chhattisgarhi (CH), Hindi (HI), Kannada (KN), Magahi (MG), Maithili (MT), Marathi (MR), Telugu (TE)
+- Language(s): Bengali (bn), Bhojpuri (bh), Chhattisgarhi (ch), Hindi (hi), Kannada (kn), Magahi (mg), Maithili (mt), Marathi (mr), Telugu (te)
 - Linguality: Multilingual
 - Catalogue Id: RESPIN-S1.0
-- Total Audio Duration (HH:MM:SS): 12682:49:25
+- Total Audio Duration (HH:MM:SS): 12652:50:00
 - Average Sample Duration: 5.35 secs
-- Total Unique Text IDs: 209984
+- Total Unique Text IDs: 203536
 - Recording Specifications: 16 kHz, 16 bits per sample, Mono
 - Recording Format: WAV
 - Recording Environment: Natural
@@ -32,23 +31,14 @@ are made available to the public, promoting innovation in Automatic Speech Recog
 | dev_mt | 1409 | 405 | 288 | 693 | 80 | 80 | 1.17 | 0.89 | 2.06 |
 | dev_te | 1438 | 265 | 235 | 500 | 80 | 80 | 1.21 | 1.09 | 2.30 |
 | test_bh | 2220 | 390 | 304 | 694 | 120 | 120 | 1.68 | 1.42 | 3.10 |
-| test_bh_hidden | 2220 | 389 | 291 | 680 | 120 | 120 | 1.72 | 1.43 | 3.15 |
 | test_bn | 2174 | 363 | 285 | 648 | 200 | 200 | 1.87 | 1.39 | 3.26 |
-| test_bn_hidden | 2172 | 376 | 254 | 630 | 200 | 200 | 1.96 | 1.25 | 3.21 |
 | test_ch | 2234 | 388 | 307 | 695 | 160 | 160 | 2.13 | 1.72 | 3.85 |
-| test_ch_hidden | 2232 | 385 | 289 | 674 | 160 | 160 | 2.13 | 1.62 | 3.75 |
 | test_hi | 2288 | 453 | 400 | 853 | 201 | 201 | 1.74 | 1.57 | 3.30 |
-| test_hi_hidden | 2286 | 432 | 401 | 833 | 201 | 201 | 1.72 | 1.59 | 3.31 |
 | test_kn | 2161 | 349 | 314 | 663 | 200 | 200 | 2.00 | 1.60 | 3.61 |
-| test_kn_hidden | 2162 | 356 | 329 | 685 | 200 | 200 | 1.90 | 1.65 | 3.54 |
 | test_mg | 2193 | 325 | 315 | 640 | 160 | 160 | 1.56 | 1.62 | 3.17 |
-| test_mg_hidden | 2189 | 341 | 306 | 647 | 160 | 160 | 1.61 | 1.61 | 3.23 |
 | test_mr | 2170 | 343 | 368 | 711 | 160 | 160 | 1.51 | 1.53 | 3.04 |
-| test_mr_hidden | 2170 | 353 | 364 | 717 | 160 | 160 | 1.61 | 1.44 | 3.05 |
 | test_mt | 2172 | 535 | 458 | 993 | 160 | 160 | 1.80 | 1.53 | 3.33 |
-| test_mt_hidden | 2169 | 533 | 442 | 975 | 160 | 160 | 1.80 | 1.47 | 3.27 |
 | test_te | 2226 | 336 | 316 | 652 | 160 | 160 | 1.67 | 1.70 | 3.37 |
-| test_te_hidden | 2226 | 324 | 313 | 637 | 160 | 160 | 1.71 | 1.77 | 3.48 |
 | train_bh_clean | 694738 | 12062 | 9905 | 21967 | 1851 | 1344 | 472.01 | 417.60 | 889.61 |
 | train_bh_noisy | 43543 | 8300 | 6956 | 15256 | 1392 | 858 | 36.12 | 32.41 | 68.53 |
 | train_bh_seminoisy | 58179 | 9057 | 7436 | 16493 | 1505 | 1053 | 48.27 | 43.56 | 91.83 |
@@ -85,6 +75,21 @@ are made available to the public, promoting innovation in Automatic Speech Recog
 | train_te_noisy | 73390 | 8972 | 8942 | 17914 | 2258 | 1747 | 63.19 | 64.47 | 127.66 |
 | train_te_seminoisy | 111471 | 9678 | 9692 | 19370 | 2273 | 1819 | 91.33 | 94.77 | 186.10 |
 | train_te_small | 95280 | 9527 | 9529 | 19056 | 1848 | 1415 | 77.17 | 78.72 | 155.89 |
+
+
+
+### Lexicon Statistics ###
+| LID | #chars | #phones | #words |
+|-----|--------|---------|--------|
+| bh  | 71     | 54      | 14105   |
+| bn  | 64     | 50      | 18571   |
+| ch  | 68     | 50      | 13230   |
+| hi  | 72     | 55      | 16571   |
+| kn  | 66     | 50      | 50822   |
+| mg  | 72     | 54      | 21711   |
+| mr  | 68     | 51      | 35709   |
+| mt  | 72     | 55      | 19336   |
+| te  | 63     | 48      | 39235   |
 
 
 ### Directory Structure ###
@@ -154,12 +159,12 @@ IISc_RESPIN_bn_D3_21023_700096_F_AGRI_208764_20011396	উড ওয়ার্ম 
 IISc_RESPIN_bn_D3_21023_700096_F_AGRI_208576_20011401	রিচ গোর্ড বা ঝিঙে হল এক রকমের পুষ্টিকর সবজি যেটিকে আমরা খাদ্য হিসেবে গ্রহণ করি
 ```
 
-For more details, please refer to database page at [RESPIN Corpus](http://spiredatasets.iisc.ac.in/respinCorpus).
+For more details, please refer to database page at [RESPIN Corpus](https://spiredatasets.ee.iisc.ac.in/respincorpus).
 
 ### Copyright and license ###
 
 ASR data created under RESPIN project by Indian Institute of Science, Bengaluru is available
-at http://spiredatasets.iisc.ac.in/respinCorpus and the copyright in the ASR data belongs to
+at https://spiredatasets.ee.iisc.ac.in/respincorpus and the copyright in the ASR data belongs to
 Indian Institute of Science, Bengaluru and the said ASR data is released or distributed under
 CC-BY-4.0 license (https://creativecommons.org/licenses/by/4.0/legalcode.en). The user of
 said ASR data is referred to the disclaimer of warranties section in the CC-BY-4.0 license
@@ -167,9 +172,7 @@ agreement.
 
 ### Acknowledgments ###
 
-We extend our gratitude to all speakers from various districts whose contributions were fundamental to this initiative's success.
-We are particularly grateful to Navana Tech for their efforts in collecting and curating the ASR corpus.
-We thank the Bill and Melinda Gates Foundation for their generous support in this project.
+We extend our gratitude to all speakers from various districts whose contributions were fundamental to this initiative's success. We are particularly grateful to Navana Tech for their efforts in collecting and curating the ASR corpus. We thank the Bill and Melinda Gates Foundation for their generous support in this project.
 
 ### Contact Information ###
 
