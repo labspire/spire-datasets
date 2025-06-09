@@ -25,12 +25,12 @@ The **Wspire corpus** is an extensive multi-device speech database specifically 
 5. [**Motorola Moto E5 Plus**](https://www.motorola.in/smartphones-moto-e5-plus/p)  
 
 ### Recording Procedure
-- Each speaker recorded all assigned sentences **first in neutral** mode, then in **whispered** mode.
-- Three distinct **1-second tones** were used for recording cues:
-  - **Start tone:** Constant 1 kHz
-  - **Correct utterance:** Up-tone (1 kHz → 2 kHz)
-  - **Incorrect utterance:** Down-tone (2 kHz → 1 kHz)
-- If a sentence was mispronounced, the speaker **repeated** it.
+
+- At first, every speaker was asked to speak all the sentences in the assigned set in neutral mode and then in the whispered mode.
+- Three different tones, each having a duration of 1 second, were used while recording.
+- Further, to indicate the beginning of each sentence, a tone of constant frequency of 1kHz was played.
+- An up-tone of 1-second duration, with frequency increasing from 1kHz to 2kHz, was played when the speaker pronounced the sentence correctly. Similarly, a down-tone of 1-second duration with frequency decreasing from 2kHz to 1kHz was played if the sentence was mispronounced.
+- In case of wrong pronunciation, speakers were asked to repeat the sentence
 
 ---
 
