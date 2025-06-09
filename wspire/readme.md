@@ -173,10 +173,9 @@ wSPIRE data collected by Spire lab, Indian Institute of Science, Bengaluru is av
 
 ## Citation
 
-If you use the **wSPIRE corpus** in your research, please cite the following publication:
+*If you use the **wSPIRE corpus** in your research, please cite the following publication:*
 
-> **Singhal, Bhavuk, Abinay Reddy Naini, and Prasanta Kumar Ghosh.**  
-> *"wSPIRE: A Parallel Multi-Device Corpus in Neutral and Whispered Speech."*  
-> In *2021 24th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)*, pp. 146-151. IEEE, 2021.
+*Singhal, Bhavuk, Abinay Reddy Naini, and Prasanta Kumar Ghosh. ["wspire: A parallel multi-device corpus in neutral and whispered speech."](https://ieeexplore.ieee.org/document/9660449) In 2021 24th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA), pp. 146-151. IEEE, 2021.*
+
 
 For more details, visit the [wSPIRE Corpus](https://spiredatasets.ee.iisc.ac.in/wspirecorpus) page.
