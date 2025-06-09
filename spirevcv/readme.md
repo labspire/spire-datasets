@@ -206,6 +206,7 @@ text(T4, yLimits(2), 'T4', 'VerticalAlignment', 'bottom', 'HorizontalAlignment',
 grid on;
 ```
 ![Tongue tip (TT)](images/image3.png)
+---
 ## Speaker Information
 
 | #  | Subject | Age | Gender | Native Language | Name       |
