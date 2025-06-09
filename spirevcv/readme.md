@@ -161,6 +161,51 @@ Below is an example plot generated from the articulatory data:
 
 ![3D Trajectories of Articulatory Sensors](images/image1.png)
 
+```matlab
+%% Example Plot 1: Lower Lip (LL) Position Over Time
+figure(2);
+time = (1:length(LL))/250;
+subplot(3, 1, 1);
+plot(time, LL(1,:), 'g--', 'MarkerSize',2, 'LineWidth',1.5);
+title ("Example Plot 1: Lower Lip Position vs. Time");
+ylabel("X Coordinates");
+subplot(3,1,2);
+plot(time, LL(2,:), 'b--', 'MarkerSize',2, 'LineWidth',1.5);
+ylabel("Y Coordinates");
+subplot(3,1,3);
+plot(time, LL(3,:), 'r--', 'MarkerSize',2, 'LineWidth',1.5);
+xlabel("Time (s)");
+ylabel("Z Coordinates");
+```
+
+output:
+
+![Lower Lip (LL)](images/image2.png)
+```matlab
+%% Example Plot 2: Tongue Tip (TT) Position Over Time
+load("0vcv.txt") %the loaded file has four timestamps (in secs)
+T1 = X0vcv(1);  %the time at which the vowel(V1) is articulated 
+T2 = X0vcv(2);  %the time at which end of vowel(V1) and begin of consonant(C) articulation
+T3 = X0vcv(3);  %the time at which end of consonant(C) and begin of vowel(V2) articulation
+T4 = X0vcv(4);  %the time at which end of vowel(V2) articulation
+figure(3);
+plot(time, TT(1,:), 'k--', 'MarkerSize',2, 'LineWidth',1.5);
+title('Example Plot 2: Tongue Tip Position vs. Time', 'Units', 'normalized', 'Position', [0.5, 1.05, 0])
+ylabel("X Coordinates");
+xlabel("Time (s)");
+hold on;
+yLimits = ylim;
+plot([T1 T1], yLimits, 'r--', 'LineWidth', 1.5);
+plot([T2 T2], yLimits, 'r--', 'LineWidth', 1.5);
+plot([T3 T3], yLimits, 'r--', 'LineWidth', 1.5);
+plot([T4 T4], yLimits, 'r--', 'LineWidth', 1.5);
+text(T1, yLimits(2), 'T1', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'center');
+text(T2, yLimits(2), 'T2', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'center');
+text(T3, yLimits(2), 'T3', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'center');
+text(T4, yLimits(2), 'T4', 'VerticalAlignment', 'bottom', 'HorizontalAlignment', 'center');
+grid on;
+```
+![Tongue tip (TT)](images/image3.png)
 ## Speaker Information
 
 | #  | Subject | Age | Gender | Native Language | Name       |
