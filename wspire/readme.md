@@ -2,14 +2,12 @@
 
 ## About
 
-The **Wspire corpus** is an extensive multi-device speech database specifically designed to capture recordings in both **neutral** and **whispered** modes. It encompasses recordings from 92 speakers, utilizing 5 different devices to ensure diverse audio capture scenarios. The corpus features parallel recordings in both neutral and whispered speech, allowing for detailed comparative analysis. All recordings were meticulously conducted in a soundproof recording room at the Electrical Engineering Department of the Indian Institute of Science (IISc), Bangalore. The participants, who contributed to this dataset, are primarily graduate students, interns, or employees affiliated with IISc. This dataset is invaluable for research in speech processing and acoustic analysis, providing robust data across varying speech modes and recording conditions.
+The **Wspire corpus** is an extensive multi-device speech database specifically designed to capture recordings in both **neutral** and **whispered** modes. It encompasses recordings from 92 speakers, utilizing 5 different devices to ensure diverse audio capture scenarios. The corpus features parallel recordings in both neutral and whispered speech, allowing for detailed comparative analysis. All recordings were meticulously conducted in a soundproof recording room at the Electrical Engineering Department of the Indian Institute of Science (IISc), Bangalore. The participants, who contributed to this dataset, are primarily graduate students, interns, or employees affiliated with IISc. This dataset is a valuable resource for research in speech processing and acoustic analysis, offering high-quality recordings across neutral and whispered speech modes and consistent environmental conditions using multiple recording devices.
 
 - **Speakers:** 92 total
 - **Devices:** 5 distinct devices for diverse audio conditions
 - **Speech Modes:** Parallel recordings in **neutral** and **whispered** modes
 - **Environment:** Soundproof studio at the **Electrical Engineering Department**, Indian Institute of Science (IISc), Bangalore
-
-Participants included graduate students, interns, and employees affiliated with IISc. This dataset is especially valuable for **speech processing** and **acoustic analysis**, offering robust comparative data across multiple recording setups.
 
 ---
 
