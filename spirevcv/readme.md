@@ -126,6 +126,40 @@ VCV boundaries were manually annotated using an in-house **MATLAB tool**, based 
 In ambiguous cases, annotators discussed and made a **unanimous decision**.
 
 ---
+### Dataset loading instructions (example)
+
+```matlab
+%% Load EMA Data
+load ('0.mat');
+disp("Size for matrix:"); disp(size(ema));
+% Extract articulatory sensor positions
+EL1 = ema(1:3,:);   %Right earlobe for head movement correction
+EL2 = ema(4:6,:);   %Left earlobe for head movement correction
+UL  = ema(7:9,:);   %Upper Lip
+LL  = ema(10:12,:); %Lower Lip
+Jaw = ema(13:15,:); %Jaw
+TT  = ema(16:18,:); %Tongue Tip
+TB  = ema(19:21,:); %Tongue Body
+TD  = ema(22:24,:); %Tongue Dorsum
+% Plot: 3D Trajectories of All Sensors
+figure;
+plot3(UL(1,:), UL(2,:), UL(3,:), 'r--', 'MarkerSize', 4, 'LineWidth',1.5); hold on;
+plot3(LL(1,:), LL(2,:), LL(3,:), 'b--', 'MarkerSize', 4, 'LineWidth',1.5); hold on;
+plot3(Jaw(1,:), Jaw(2,:), Jaw(3,:), 'g--', 'MarkerSize', 4, 'LineWidth',1.5); hold on;
+plot3(TT(1,:), TT(2,:), TT(3,:), 'm--', 'MarkerSize', 4, 'LineWidth',1.5); hold on;
+plot3(TB(1,:), TB(2,:), TB(3,:), 'k--', 'MarkerSize', 4, 'LineWidth',1.5); hold on;
+plot3(TD(1,:), TD(2,:), TD(3,:), '--','Color',[0.9290 0.6940 0.1250], 'MarkerSize', 4, 'LineWidth',1.5); hold on;
+hold off;
+legend({'UL', 'LL', 'Jaw', 'TT', 'TB', 'TD'}, 'Location', 'northeastoutside');
+title("3D Trajectories of Articulatory Sensors");
+xlabel("x-axis"); ylabel("y-axis"); zlabel("z-axis");
+view(45, 30); grid on; box on;
+```
+
+
+Below is an example plot generated from the articulatory data:
+
+![3D Trajectories of Articulatory Sensors](images/image1.png)
 
 ## Speaker Information
 
