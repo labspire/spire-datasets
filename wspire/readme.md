@@ -169,7 +169,7 @@ ID0[ID]_00[SET]_[GENDER]_[MODE]_[DEVICE]_[SENTNUM]
 
 
 ## License
-wSPIRE data collected by Spire lab, Indian Institute of Science, Bengaluru is available at https://spiredatasets.ee.iisc.ac.in/wspirecorpus and the copyright data belongs to Indian Institute of Science, Bengaluru and the said data is released or distributed under CC-BY-4.0 license (https://creativecommons.org/licenses/by/4.0/legalcode.en). The user of said data is referred to the disclaimer of warranties section in the CC-BY-4.0 license agreement.
+wSPIRE data collected by Spire lab, Indian Institute of Science, Bengaluru is available at https://spiredatasets.ee.iisc.ac.in/wspirecorpus and the copyright for this data belongs to Indian Institute of Science, Bengaluru and the said data is released or distributed under CC-BY-4.0 license (https://creativecommons.org/licenses/by/4.0/legalcode.en). Users are advised to refer to the "Disclaimer of Warranties" section in the license agreement before using the dataset.
 
 ## Citation
 
