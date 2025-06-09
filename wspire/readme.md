@@ -168,7 +168,15 @@ ID0[ID]_00[SET]_[GENDER]_[MODE]_[DEVICE]_[SENTNUM]
 ---
 
 
-## Citation & License
+## License
+wSPIRE data collected by Spire lab, Indian Institute of Science, Bengaluru is available at https://spiredatasets.ee.iisc.ac.in/wspirecorpus and the copyright data belongs to Indian Institute of Science, Bengaluru and the said data is released or distributed under CC-BY-4.0 license (https://creativecommons.org/licenses/by/4.0/legalcode.en). The user of said data is referred to the disclaimer of warranties section in the CC-BY-4.0 license agreement.
 
-*Add citation and license details here if applicable.*
+## Citation
 
+If you use the **wSPIRE corpus** in your research, please cite the following publication:
+
+> **Singhal, Bhavuk, Abinay Reddy Naini, and Prasanta Kumar Ghosh.**  
+> *"wSPIRE: A Parallel Multi-Device Corpus in Neutral and Whispered Speech."*  
+> In *2021 24th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)*, pp. 146-151. IEEE, 2021.
+
+For more details, visit the [wSPIRE Corpus](https://spiredatasets.ee.iisc.ac.in/wspirecorpus) page.
