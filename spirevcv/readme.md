@@ -408,7 +408,7 @@ function formantData = readFormantData(filename)
    end
 end
 ```
-![Data overview ](images/image4.png)
+![Data overview ](images/image4.jpg)
 ---
 ## Speaker Information
 
