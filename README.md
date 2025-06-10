@@ -1,5 +1,4 @@
 ## Overview
+This repository contains corpus information for various datasets curated by SPIRE Lab as part of multiple research and development initiatives. To explore a specific dataset, navigate to its corresponding folder. Each folder includes a `README.md` file with detailed information about the dataset. For datasets with multiple `README` files, sub-folders are organized hierarchically, ensuring each child folder has its own `README.md` file for better clarity and understanding.
 
-This repository contains the corpus information of different datasets collected by SPIRE Lab under various initiatives. 
-To know more about each of these datasets, the users can go to the respective folders, each folder contains a markdown file (readme.md) which contains information about that dataset. 
-Some of the data corpus contain more  than one readme files, in that case, sub-folders are created (recursively, if needed) and the child folder contains a readme file. 
+You can download the datasets from [SPIRE Datasets Portal](https://spiredatasets.ee.iisc.ac.in/).
