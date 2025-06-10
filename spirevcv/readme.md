@@ -206,6 +206,209 @@ text(T4, yLimits(2), 'T4', 'VerticalAlignment', 'bottom', 'HorizontalAlignment',
 grid on;
 ```
 ![Tongue tip (TT)](images/image3.png)
+
+
+
+```matlab
+
+
+
+
+function plotSpeechAnalysis()
+   %% 1. Load Data with Error Handling
+   try
+       % Audio data
+       audioPath = '0.wav'; % Update path if needed
+       [y, Fs] = audioread(audioPath);
+      
+       % EMA data
+       load('0.mat', 'ema'); % Contains articulatory movement data
+       load('0vcv.txt');     % Should create variable X0vcv with time markers
+       load('0.txt');        % Should create variable X0 with additional markers
+      
+       % Formant data
+       formantPath = '0fpe.txt'; % Update path if needed
+       formantData = readFormantData(formantPath);
+      
+   catch ME
+       error('Failed to load data: %s', ME.message);
+   end
+   %% 2. Time Vectors
+   t_audio = (0:length(y)-1)/Fs;          % Audio time vector
+   t_ema = (1:size(ema, 2)) / 250;       % EMA sampling at 250Hz
+   t_formant = (0:size(formantData,1)-1)/100; % Formant sampling at 100Hz
+  
+   %% 3. Extract Articulatory Data
+   UL_z = ema(18,:);  % Upper lip Z-coordinate (channel 18)
+   LL_z = ema(21,:);  % Lower lip Z-coordinate (channel 21)
+  
+   %% 4. Phonetic Boundary Markers
+   T1 = X0vcv(1); T2 = X0vcv(2); T3 = X0vcv(3); T4 = X0vcv(4);
+  
+   %% 5. Create Figure with 4 Subplots
+   figure('Units', 'normalized', 'Position', [0.1 0.1 0.8 0.8]);
+  
+   % Common vertical line properties
+   lineProps = {'Color', 'r', 'LineStyle', '--', 'LineWidth', 1.8};
+  
+   %% Subplot 1: Audio Waveform
+   subplot(4,1,1);
+   plot(t_audio, y);
+   hold on;
+   yLim = ylim;
+  
+   % Add phonetic boundary lines
+   line([T1 T1], yLim, lineProps{:});
+   line([T2 T2], yLim, lineProps{:});
+   line([T3 T3], yLim, lineProps{:});
+   line([T4 T4], yLim, lineProps{:});
+  
+   % Labels and annotations
+   text(0.03, 0.055, 'Waveform', 'FontSize', 18, 'FontWeight', 'bold');
+   text(0.35, 0.057, 'Speak', 'FontSize', 15, 'FontWeight', 'bold');
+   text(0.82, 0.057, '/a/', 'FontSize', 15, 'FontWeight', 'bold');
+   text(0.94, 0.057, '/t/', 'FontSize', 15, 'FontWeight', 'bold');
+   text(1.067, 0.057, '/a/', 'FontSize', 15, 'FontWeight', 'bold');
+   text(1.4, 0.057, 'Today', 'FontSize', 15, 'FontWeight', 'bold');
+  
+   set(gca, 'YTick', [], 'XTick', []);
+   grid on;
+   xlim([t_audio(1), t_audio(end)]);
+  
+   %% Subplot 2: Spectrogram with Colored Formant Tracks
+   subplot(4,1,2);
+   [S, F, T_spec, P] = spectrogram(y, 256, 200, 512, Fs);
+   imagesc(T_spec, F, 10*log10(P));
+   axis xy;
+   n = 256;
+   custom_map = [
+       linspace(0.2, 0.5, n/2)' linspace(0.3, 0.7, n/2)' linspace(0.8, 1, n/2)';  % Medium blue to cyan
+       linspace(0.5, 1, n/2)' linspace(0.7, 1, n/2)' linspace(1, 0, n/2)'          % Cyan to yellow
+   ];
+   colormap(custom_map)
+   % colormap('jet');
+   hold on;
+  
+   % Define colors for formants (F1, F2, F3)
+   formantColors = {
+       [1 0 0],    % F1 - Red
+       [0 1 0],    % F2 - Green
+       [0 0 1],    % F3 - Blue
+       [1 1 0],    % F4 - Yellow (if available)
+       [1 0 1]     % F5 - Magenta (if available)
+   };
+  
+   % Plot each formant with different color and thicker line
+   for k = 1:min(5, size(formantData,2)) % Plot first 3 formants or available ones
+       if ~all(isnan(formantData(:,k)))
+           plot(t_formant, formantData(:,k), ...
+               'Color', formantColors{k}, ...
+               'LineWidth',0.3, ...
+               'DisplayName', sprintf('F%d', k));
+       end
+   end
+  
+   % Add phonetic boundary lines
+   yLim = ylim;
+   line([T1 T1], yLim, lineProps{:});
+   line([T2 T2], yLim, lineProps{:});
+   line([T3 T3], yLim, lineProps{:});
+   line([T4 T4], yLim, lineProps{:});
+   % Plot formants with legend
+   h_formants = gobjects(3,1); % Handle array for formants
+   for k = 1:min(5, size(formantData,2))
+       if ~all(isnan(formantData(:,k)))
+           % White background for visibility
+           plot(t_formant, formantData(:,k), 'w', 'LineWidth', 4, 'HandleVisibility', 'off');
+           % Colored formant line
+           h_formants(k) = plot(t_formant, formantData(:,k), ...
+               'Color', formantColors{k}, ...
+               'LineWidth', 1.9, ...
+               'DisplayName', sprintf('F%d', k));
+       end
+   end
+   % Labels and legend
+   text(0.03, max(F)*0.59, 'Spectrogram & Formant', ...
+       'FontSize', 16, 'FontWeight', 'bold', 'Color', 'k');
+   % legend(h_formants(ishandle(h_formants)), 'Location', 'northeast', 'Color', [0.9 0.9 0.9]);
+   set(gca, 'YTickLabel', [], 'XTickLabel', []);
+   grid on;
+   ylim([0 5000]); % Limit frequency range to better show formants
+  
+   %% Subplot 3: Upper Lip Movement
+   subplot(4,1,3);
+   plot(t_ema, UL_z);
+   hold on;
+   yLim = ylim;
+  
+   % Add phonetic boundary lines
+   line([T1 T1], yLim, lineProps{:});
+   line([T2 T2], yLim, lineProps{:});
+   line([T3 T3], yLim, lineProps{:});
+   line([T4 T4], yLim, lineProps{:});
+  
+   % Labels
+   text(0.035, yLim(2)*0.9, 'Tongue Tip', 'FontSize', 17, 'FontWeight', 'bold');
+   set(gca, 'YTickLabel', [], 'XTickLabel', []);
+   grid on;
+   xlim([t_ema(1), t_ema(end)]);
+  
+   %% Subplot 4: Lower Lip Movement
+   subplot(4,1,4);
+   plot(t_ema, LL_z);
+   hold on;
+   yLim = ylim;
+  
+   % Add phonetic boundary lines
+   line([T1 T1], yLim, lineProps{:});
+   line([T2 T2], yLim, lineProps{:});
+   line([T3 T3], yLim, lineProps{:});
+   line([T4 T4], yLim, lineProps{:});
+  
+   % Labels
+   text(0.032, yLim(2)*0.94, 'Tongue Body', 'FontSize', 17, 'FontWeight', 'bold');
+   set(gca, 'YTickLabel', [], 'XTickLabel', []);
+   grid on;
+   xlim([t_ema(1), t_ema(end)]);
+  
+   %% Adjust Subplot Positions
+   subplots = findall(gcf, 'Type', 'axes');
+   subplots = flipud(subplots); % Reverse order for top-to-bottom
+  
+   % New positions for all 4 subplots (adjusted heights)
+   newPositions = [
+           0.07  0.74  0.88  0.2;
+           0.07  0.52  0.88  0.2;
+           0.07  0.30  0.88  0.2;
+           0.07  0.08  0.88  0.2;
+   ];
+  
+   % Apply positions to all 4 subplots
+   for i = 1:4
+       set(subplots(i), 'Position', newPositions(i,:));
+   end
+end
+function formantData = readFormantData(filename)
+   % READFORMANTDATA - Parses formant data from text file
+   fid = fopen(filename, 'r');
+   if fid == -1
+       error('Could not open formant file: %s', filename);
+   end
+  
+   lines = textscan(fid, '%s', 'Delimiter', '\n', 'WhiteSpace', '');
+   fclose(fid);
+   lines = lines{1};
+  
+   % Replace undefined values and convert to numeric matrix
+   formantData = zeros(length(lines), 5); % Assuming max 5 formants
+   for i = 1:length(lines)
+       line = strrep(lines{i}, '--undefined--', 'NaN');
+       vals = str2num(line); %#ok<ST2NM>
+       formantData(i,1:length(vals)) = vals;
+   end
+end
+```
+![Data overview ](images/image4.png)
 ---
 ## Speaker Information
 
