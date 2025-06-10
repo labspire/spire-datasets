@@ -1,6 +1,6 @@
 # SPIRE VCV
 
-**SPIRE VCV** is a comprehensive speech production database that includes simultaneous **acoustic** and **electromagnetic articulography (EMA)** data collected from non-native Indian English speakers. This corpus, named *SPIRE VCV*, provides valuable resources for acoustic-articulatory studies, particularly for investigations involving speaking rate variations.
+**SPIRE VCV** is a comprehensive speech production database that includes simultaneous **acoustic** and **electromagnetic articulography (EMA)** data collected from non-native Indian English speakers. This corpus, named **SPIRE VCV**, provides valuable resources for acoustic-articulatory studies, particularly for investigations involving speaking rate variations.
 
 ### Key Features of the SPIRE VCV Corpus:
 - **Simultaneous Acoustic and Articulatory Data:**  
