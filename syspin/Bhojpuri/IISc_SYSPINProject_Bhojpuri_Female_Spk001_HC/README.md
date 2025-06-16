@@ -10,27 +10,28 @@ included in the SYSPIN project.
 
 ## Bhojpuri Female Data Attributes
 
-Type: Speech and Text
-Language(s): Bhojpuri
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BHOJPURI_F_HC
-Data Size (HH:MM:SS): 49 hours:3 mins:22 secs
-Data Size (# Sentences): 27322
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+Type: Speech and Text  
+Language(s): Bhojpuri  
+Linguality: Monolingual  
+Catalogue Id: SYSPIN_BHOJPURI_F_HC  
+Data Size (HH:MM:SS): 49 hours:3 mins:22 secs  
+Data Size (# Sentences): 27322  
+Data size (# Speakers): Female(1)  
+Speaker Tag: Spk0001  
+Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH  
+Annotation file availability: YES  
+Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
+Validation status: Validated  
+Data creator: Indian Institute of Sciences (IISc), Bengaluru  
+Year of publishing: 2024  
+Suggested research purpose/ areas: TTS  
 
 ---
 
 ## File Structure
 
 The corpus is organized into the following directory structure:
+```
 [Corpus_Root]/
 └── [Speaker_1]/
       ├──[wavs]
@@ -41,15 +42,16 @@ The corpus is organized into the following directory structure:
       │    └── [IISc_SYSPINProject<languageTag><genderTag><domainTag><uniqueID>.wav]
       ├── [IISc_SYSPINProject<languageTag><genderTag><speakerTag><qualityCheckTag>Transcripts.json]
       └── [IISc_SYSPINProject<languageTag><genderTag><speakerTag><qualityCheckTag>_readme.txt]
-
+```
 ---
 
 ## Bhojpuri Female Data Statistics
 
-Total Audio Duration:    49 hours:3 mins:22 secs
-Average Sample Duration: 6.464 secs
-Total Sentences:         27322
-Unique word Count:       39484
+Total Audio Duration:    49 hours:3 mins:22 secs  
+Average Sample Duration: 6.464 secs  
+Total Sentences:         27322  
+Unique word Count:       39484  
+
 Distribution of domains:
 | Domain   | Duration                |   Count | Domain Description   |
 |:---------|:------------------------|--------:|:---------------------|
@@ -72,25 +74,25 @@ various domain specific sentences, conversational sentences and erroneous senten
 
 ## Speaker MetaData
 
-Language: Bhojpuri
-Gender: Female
-Age: 35
-Experience: 12 Years
-Languages known: Bhojpuri, Hindi
-Mother tongue: Bhojpuri
+Language: Bhojpuri  
+Gender: Female  
+Age: 35  
+Experience: 12 Years  
+Languages known: Bhojpuri, Hindi  
+Mother tongue: Bhojpuri  
 
 ---
 
 ## Recording Setup
 
-Microphone: Neumann TLM-103
-Recording Environment: Professional studio
-Recording Conditions: Studio quality at ~40dB SNR
+Microphone: Neumann TLM-103  
+Recording Environment: Professional studio  
+Recording Conditions: Studio quality at ~40dB SNR  
 
 ---
 
 ## Transcription JSON Structure
-
+```
 Keys
 ├── MetaData (Project Information)
 ├── SpeakersMetaData (Speakers' Metadata)
@@ -104,6 +106,7 @@ Keys
         │ 			└──Domain
         │
         └──[...]
+```
 
 ---
 
@@ -142,6 +145,6 @@ voice artist in developing this TTS corpus.
 ## Contact Information
 
 SPIRE Lab, EE Dept., IISc, Bengaluru
-Email: contact.syspin@iisc.ac.in>
+Email: contact.syspin@iisc.ac.in
 
 ---
