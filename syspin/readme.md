@@ -228,10 +228,10 @@ Mother tongue: Telugu
 
 #### Bhojpuri Male Data Statistics
 
-Total Audio Duration:    47 hours:59 mins:1 secs
-Average Sample Duration: 6.641 secs
-Total Sentences:         26012
-Unique word Count:       37958
+- Total Audio Duration:    47 hours:59 mins:1 secs
+- Average Sample Duration: 6.641 secs
+- Total Sentences:         26012
+- Unique word Count:       37958
 
 #### Distribution of domains:
 
@@ -257,28 +257,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Bhojpuri Male Data Attributes
 
-Type: Speech and Text
-Language(s): Bhojpuri
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BHOJPURI_M_NHC
-Data Size (HH:MM:SS): 11 hours:38 mins:58 secs
-Data Size (# Sentences): 6096
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Bhojpuri
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_BHOJPURI_M_NHC
+- Data Size (HH:MM:SS): 11 hours:38 mins:58 secs
+- Data Size (# Sentences): 6096
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Bhojpuri Male Data Statistics
 
-Total Audio Duration:    11 hours:38 mins:58 secs
-Average Sample Duration: 6.88 secs
-Total Sentences:         6096
-Unique word Count:       17700
+- Total Audio Duration:    11 hours:38 mins:58 secs
+- Average Sample Duration: 6.88 secs
+- Total Sentences:         6096
+- Unique word Count:       17700
 
 #### Distribution of domains:
 
@@ -304,28 +304,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Bhojpuri Female Data Attributes
 
-Type: Speech and Text
-Language(s): Bhojpuri
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BHOJPURI_F_HC
-Data Size (HH:MM:SS): 49 hours:3 mins:22 secs
-Data Size (# Sentences): 27322
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Bhojpuri
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_BHOJPURI_F_HC
+- Data Size (HH:MM:SS): 49 hours:3 mins:22 secs
+- Data Size (# Sentences): 27322
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Bhojpuri Female Data Statistics
 
-Total Audio Duration:    49 hours:3 mins:22 secs
-Average Sample Duration: 6.464 secs
-Total Sentences:         27322
-Unique word Count:       39484
+- Total Audio Duration:    49 hours:3 mins:22 secs
+- Average Sample Duration: 6.464 secs
+- Total Sentences:         27322
+- Unique word Count:       39484
 
 #### Distribution of domains:
 
@@ -351,28 +351,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Bhojpuri Female Data Attributes
 
-Type: Speech and Text
-Language(s): Bhojpuri
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BHOJPURI_F_NHC
-Data Size (HH:MM:SS): 11 hours:59 mins:11 secs
-Data Size (# Sentences): 6375
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Bhojpuri
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_BHOJPURI_F_NHC
+- Data Size (HH:MM:SS): 11 hours:59 mins:11 secs
+- Data Size (# Sentences): 6375
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Bhojpuri Female Data Statistics
 
-Total Audio Duration:    11 hours:59 mins:11 secs
-Average Sample Duration: 6.769 secs
-Total Sentences:         6375
-Unique word Count:       18093
+- Total Audio Duration:    11 hours:59 mins:11 secs
+- Average Sample Duration: 6.769 secs
+- Total Sentences:         6375
+- Unique word Count:       18093
 
 #### Distribution of domains:
 
@@ -398,28 +398,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Bengali Male Data Attributes
 
-Type: Speech and Text
-Language(s): Bengali
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BENGALI_M_HC
-Data Size (HH:MM:SS): 54 hours:29 mins:52 secs
-Data Size (# Sentences): 25234
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Bengali
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_BENGALI_M_HC
+- Data Size (HH:MM:SS): 54 hours:29 mins:52 secs
+- Data Size (# Sentences): 25234
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Bengali Male Data Statistics
 
-Total Audio Duration:    54 hours:29 mins:52 secs
-Average Sample Duration: 7.775 secs
-Total Sentences:         25234
-Unique word Count:       76564
+- Total Audio Duration:    54 hours:29 mins:52 secs
+- Average Sample Duration: 7.775 secs
+- Total Sentences:         25234
+- Unique word Count:       76564
 
 #### Distribution of domains:
 
@@ -445,28 +445,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Bengali Male Data Attributes
 
-Type: Speech and Text
-Language(s): Bengali
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BENGALI_M_NHC
-Data Size (HH:MM:SS): 6 hours:17 mins:19 secs
-Data Size (# Sentences): 2623
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Bengali
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_BENGALI_M_NHC
+- Data Size (HH:MM:SS): 6 hours:17 mins:19 secs
+- Data Size (# Sentences): 2623
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Bengali Male Data Statistics
 
-Total Audio Duration:    6 hours:17 mins:19 secs
-Average Sample Duration: 8.631 secs
-Total Sentences:         2623
-Unique word Count:       17806
+- Total Audio Duration:    6 hours:17 mins:19 secs
+- Average Sample Duration: 8.631 secs
+- Total Sentences:         2623
+- Unique word Count:       17806
 
 #### Distribution of domains:
 
@@ -492,28 +492,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Bengali Female Data Attributes
 
-Type: Speech and Text
-Language(s): Bengali
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BENGALI_F_HC
-Data Size (HH:MM:SS): 50 hours:44 mins:39 secs
-Data Size (# Sentences): 21152
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Bengali
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_BENGALI_F_HC
+- Data Size (HH:MM:SS): 50 hours:44 mins:39 secs
+- Data Size (# Sentences): 21152
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Bengali Female Data Statistics
 
-Total Audio Duration:    50 hours:44 mins:39 secs
-Average Sample Duration: 8.637 secs
-Total Sentences:         21152
-Unique word Count:       68952
+- Total Audio Duration:    50 hours:44 mins:39 secs
+- Average Sample Duration: 8.637 secs
+- Total Sentences:         21152
+- Unique word Count:       68952
 
 #### Distribution of domains:
 
@@ -539,28 +539,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Bengali Female Data Attributes
 
-Type: Speech and Text
-Language(s): Bengali
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BENGALI_F_NHC
-Data Size (HH:MM:SS): 9 hours:29 mins:27 secs
-Data Size (# Sentences): 3853
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Bengali
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_BENGALI_F_NHC
+- Data Size (HH:MM:SS): 9 hours:29 mins:27 secs
+- Data Size (# Sentences): 3853
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Bengali Female Data Statistics
 
-Total Audio Duration:    9 hours:29 mins:27 secs
-Average Sample Duration: 8.868 secs
-Total Sentences:         3853
-Unique word Count:       22719
+- Total Audio Duration:    9 hours:29 mins:27 secs
+- Average Sample Duration: 8.868 secs
+- Total Sentences:         3853
+- Unique word Count:       22719
 
 #### Distribution of domains:
 
@@ -586,28 +586,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Chhattisgarhi Male Data Attributes
 
-Type: Speech and Text
-Language(s): Chhattisgarhi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_CHHATTISGARHI_M_HC
-Data Size (HH:MM:SS): 49 hours:45 mins:25 secs
-Data Size (# Sentences): 22885
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, GENE, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH, WEBS
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Chhattisgarhi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_CHHATTISGARHI_M_HC
+- Data Size (HH:MM:SS): 49 hours:45 mins:25 secs
+- Data Size (# Sentences): 22885
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, GENE, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH, WEBS
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Chhattisgarhi Male Data Statistics
 
-Total Audio Duration:    49 hours:45 mins:25 secs
-Average Sample Duration: 7.827 secs
-Total Sentences:         22885
-Unique word Count:       41161
+- Total Audio Duration:    49 hours:45 mins:25 secs
+- Average Sample Duration: 7.827 secs
+- Total Sentences:         22885
+- Unique word Count:       41161
 
 #### Distribution of domains:
 
@@ -637,28 +637,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Chhattisgarhi Male Data Attributes
 
-Type: Speech and Text
-Language(s): Chhattisgarhi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_CHHATTISGARHI_M_NHC
-Data Size (HH:MM:SS): 10 hours:58 mins:15 secs
-Data Size (# Sentences): 4797
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, GENE, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH, WEBS
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Chhattisgarhi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_CHHATTISGARHI_M_NHC
+- Data Size (HH:MM:SS): 10 hours:58 mins:15 secs
+- Data Size (# Sentences): 4797
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, GENE, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH, WEBS
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Chhattisgarhi Male Data Statistics
 
-Total Audio Duration:    10 hours:58 mins:15 secs
-Average Sample Duration: 8.233 secs
-Total Sentences:         4797
-Unique word Count:       17461
+- Total Audio Duration:    10 hours:58 mins:15 secs
+- Average Sample Duration: 8.233 secs
+- Total Sentences:         4797
+- Unique word Count:       17461
 
 #### Distribution of domains:
 
@@ -688,28 +688,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Chhattisgarhi Female Data Attributes
 
-Type: Speech and Text
-Language(s): Chhattisgarhi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_CHHATTISGARHI_F_HC
-Data Size (HH:MM:SS): 54 hours:48 mins:50 secs
-Data Size (# Sentences): 27595
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, GENE, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH, WEBS
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Chhattisgarhi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_CHHATTISGARHI_F_HC
+- Data Size (HH:MM:SS): 54 hours:48 mins:50 secs
+- Data Size (# Sentences): 27595
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, GENE, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH, WEBS
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Chhattisgarhi Female Data Statistics
 
-Total Audio Duration:    54 hours:48 mins:50 secs
-Average Sample Duration: 7.151 secs
-Total Sentences:         27595
-Unique word Count:       50169
+- Total Audio Duration:    54 hours:48 mins:50 secs
+- Average Sample Duration: 7.151 secs
+- Total Sentences:         27595
+- Unique word Count:       50169
 
 #### Distribution of domains:
 
@@ -739,28 +739,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Chhattisgarhi Female Data Attributes
 
-Type: Speech and Text
-Language(s): Chhattisgarhi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_CHHATTISGARHI_F_NHC
-Data Size (HH:MM:SS): 5 hours:47 mins:18 secs
-Data Size (# Sentences): 2664
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, GENE, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH, WEBS
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Chhattisgarhi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_CHHATTISGARHI_F_NHC
+- Data Size (HH:MM:SS): 5 hours:47 mins:18 secs
+- Data Size (# Sentences): 2664
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, GENE, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH, WEBS
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Chhattisgarhi Female Data Statistics
 
-Total Audio Duration:    5 hours:47 mins:18 secs
-Average Sample Duration: 7.822 secs
-Total Sentences:         2664
-Unique word Count:       13151
+- Total Audio Duration:    5 hours:47 mins:18 secs
+- Average Sample Duration: 7.822 secs
+- Total Sentences:         2664
+- Unique word Count:       13151
 
 #### Distribution of domains:
 
@@ -790,28 +790,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Hindi Male Data Attributes
 
-Type: Speech and Text
-Language(s): Hindi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_HINDI_M_HC
-Data Size (HH:MM:SS): 54 hours:57 mins:49 secs
-Data Size (# Sentences): 24699
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCT, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Hindi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_HINDI_M_HC
+- Data Size (HH:MM:SS): 54 hours:57 mins:49 secs
+- Data Size (# Sentences): 24699
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCT, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Hindi Male Data Statistics
 
-Total Audio Duration:    54 hours:57 mins:49 secs
-Average Sample Duration: 8.011 secs
-Total Sentences:         24699
-Unique word Count:       55610
+- Total Audio Duration:    54 hours:57 mins:49 secs
+- Average Sample Duration: 8.011 secs
+- Total Sentences:         24699
+- Unique word Count:       55610
 
 #### Distribution of domains:
 
@@ -837,28 +837,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Hindi Male Data Attributes
 
-Type: Speech and Text
-Language(s): Hindi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_HINDI_M_NHC
-Data Size (HH:MM:SS): 4 hours:7 mins:49 secs
-Data Size (# Sentences): 1777
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCT, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Hindi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_HINDI_M_NHC
+- Data Size (HH:MM:SS): 4 hours:7 mins:49 secs
+- Data Size (# Sentences): 1777
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCT, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Hindi Male Data Statistics
 
-Total Audio Duration:    4 hours:7 mins:49 secs
-Average Sample Duration: 8.368 secs
-Total Sentences:         1777
-Unique word Count:       9596
+- Total Audio Duration:    4 hours:7 mins:49 secs
+- Average Sample Duration: 8.368 secs
+- Total Sentences:         1777
+- Unique word Count:       9596
 
 #### Distribution of domains:
 
@@ -884,28 +884,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Hindi Female Data Attributes
 
-Type: Speech and Text
-Language(s): Hindi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_HINDI_F_HC
-Data Size (HH:MM:SS): 54 hours:54 mins:44 secs
-Data Size (# Sentences): 22058
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Hindi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_HINDI_F_HC
+- Data Size (HH:MM:SS): 54 hours:54 mins:44 secs
+- Data Size (# Sentences): 22058
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Hindi Female Data Statistics
 
-Total Audio Duration:    54 hours:54 mins:44 secs
-Average Sample Duration: 8.962 secs
-Total Sentences:         22058
-Unique word Count:       47328
+- Total Audio Duration:    54 hours:54 mins:44 secs
+- Average Sample Duration: 8.962 secs
+- Total Sentences:         22058
+- Unique word Count:       47328
 
 #### Distribution of domains:
 
@@ -930,28 +930,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Hindi Female Data Attributes
 
-Type: Speech and Text
-Language(s): Hindi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_HINDI_F_NHC
-Data Size (HH:MM:SS): 5 hours:17 mins:11 secs
-Data Size (# Sentences): 2063
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Hindi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_HINDI_F_NHC
+- Data Size (HH:MM:SS): 5 hours:17 mins:11 secs
+- Data Size (# Sentences): 2063
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Hindi Female Data Statistics
 
-Total Audio Duration:    5 hours:17 mins:11 secs
-Average Sample Duration: 9.225 secs
-Total Sentences:         2063
-Unique word Count:       12453
+- Total Audio Duration:    5 hours:17 mins:11 secs
+- Average Sample Duration: 9.225 secs
+- Total Sentences:         2063
+- Unique word Count:       12453
 
 #### Distribution of domains:
 
@@ -976,28 +976,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Kannada Male Data Attributes
 
-Type: Speech and Text
-Language(s): Kannada
-Linguality: Monolingual
-Catalogue Id: SYSPIN_KANNADA_M_HC
-Data Size (HH:MM:SS): 49 hours:19 mins:17 secs
-Data Size (# Sentences): 20694
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Kannada
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_KANNADA_M_HC
+- Data Size (HH:MM:SS): 49 hours:19 mins:17 secs
+- Data Size (# Sentences): 20694
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Kannada Male Data Statistics
 
-Total Audio Duration:    49 hours:19 mins:17 secs
-Average Sample Duration: 8.58 secs
-Total Sentences:         20694
-Unique word Count:       85485
+- Total Audio Duration:    49 hours:19 mins:17 secs
+- Average Sample Duration: 8.58 secs
+- Total Sentences:         20694
+- Unique word Count:       85485
 
 #### Distribution of domains:
 
@@ -1023,28 +1023,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Kannada Male Data Attributes
 
-Type: Speech and Text
-Language(s): Kannada
-Linguality: Monolingual
-Catalogue Id: SYSPIN_KANNADA_M_NHC
-Data Size (HH:MM:SS): 9 hours:14 mins:45 secs
-Data Size (# Sentences): 3453
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Kannada
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_KANNADA_M_NHC
+- Data Size (HH:MM:SS): 9 hours:14 mins:45 secs
+- Data Size (# Sentences): 3453
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Kannada Male Data Statistics
 
-Total Audio Duration:    9 hours:14 mins:45 secs
-Average Sample Duration: 9.639 secs
-Total Sentences:         3453
-Unique word Count:       23925
+- Total Audio Duration:    9 hours:14 mins:45 secs
+- Average Sample Duration: 9.639 secs
+- Total Sentences:         3453
+- Unique word Count:       23925
 
 #### Distribution of domains:
 
@@ -1070,28 +1070,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Kannada Female Data Attributes
 
-Type: Speech and Text
-Language(s): Kannada
-Linguality: Monolingual
-Catalogue Id: SYSPIN_KANNADA_F_HC
-Data Size (HH:MM:SS): 52 hours:21 mins:46 secs
-Data Size (# Sentences): 17203
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCO, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Kannada
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_KANNADA_F_HC
+- Data Size (HH:MM:SS): 52 hours:21 mins:46 secs
+- Data Size (# Sentences): 17203
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCO, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Kannada Female Data Statistics
 
-Total Audio Duration:    52 hours:21 mins:46 secs
-Average Sample Duration: 10.958 secs
-Total Sentences:         17203
-Unique word Count:       75942
+- Total Audio Duration:    52 hours:21 mins:46 secs
+- Average Sample Duration: 10.958 secs
+- Total Sentences:         17203
+- Unique word Count:       75942
 
 #### Distribution of domains:
 
@@ -1117,28 +1117,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Kannada Female Data Attributes
 
-Type: Speech and Text
-Language(s): Kannada
-Linguality: Monolingual
-Catalogue Id: SYSPIN_KANNADA_F_NHC
-Data Size (HH:MM:SS): 9 hours:10 mins:33 secs
-Data Size (# Sentences): 2740
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCO, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Kannada
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_KANNADA_F_NHC
+- Data Size (HH:MM:SS): 9 hours:10 mins:33 secs
+- Data Size (# Sentences): 2740
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCO, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Kannada Female Data Statistics
 
-Total Audio Duration:    9 hours:10 mins:33 secs
-Average Sample Duration: 12.056 secs
-Total Sentences:         2741
-Unique word Count:       20492
+- Total Audio Duration:    9 hours:10 mins:33 secs
+- Average Sample Duration: 12.056 secs
+- Total Sentences:         2741
+- Unique word Count:       20492
 
 #### Distribution of domains:
 
@@ -1164,28 +1164,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Magahi Male Data Attributes
 
-Type: Speech and Text
-Language(s): Magahi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MAGAHI_M_HC
-Data Size (HH:MM:SS): 54 hours:39 mins:48 secs
-Data Size (# Sentences): 32529
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, HEAL, INDI, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Magahi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MAGAHI_M_HC
+- Data Size (HH:MM:SS): 54 hours:39 mins:48 secs
+- Data Size (# Sentences): 32529
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, HEAL, INDI, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Magahi Male Data Statistics
 
-Total Audio Duration:    54 hours:39 mins:48 secs
-Average Sample Duration: 6.05 secs
-Total Sentences:         32529
-Unique word Count:       51443
+- Total Audio Duration:    54 hours:39 mins:48 secs
+- Average Sample Duration: 6.05 secs
+- Total Sentences:         32529
+- Unique word Count:       51443
 
 #### Distribution of domains:
 
@@ -1212,28 +1212,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Magahi Male Data Attributes
 
-Type: Speech and Text
-Language(s): Magahi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MAGAHI_M_NHC
-Data Size (HH:MM:SS): 6 hours:6 mins:36 secs
-Data Size (# Sentences): 3436
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, HEAL, INDI, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Magahi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MAGAHI_M_NHC
+- Data Size (HH:MM:SS): 6 hours:6 mins:36 secs
+- Data Size (# Sentences): 3436
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, HEAL, INDI, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Magahi Male Data Statistics
 
-Total Audio Duration:    6 hours:6 mins:36 secs
-Average Sample Duration: 6.402 secs
-Total Sentences:         3436
-Unique word Count:       12945
+- Total Audio Duration:    6 hours:6 mins:36 secs
+- Average Sample Duration: 6.402 secs
+- Total Sentences:         3436
+- Unique word Count:       12945
 
 #### Distribution of domains:
 
@@ -1259,28 +1259,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Magahi Female Data Attributes
 
-Type: Speech and Text
-Language(s): Magahi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MAGAHI_F_HC
-Data Size (HH:MM:SS): 51 hours:25 mins:22 secs
-Data Size (# Sentences): 30818
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, HEAL, INDI, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Magahi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MAGAHI_F_HC
+- Data Size (HH:MM:SS): 51 hours:25 mins:22 secs
+- Data Size (# Sentences): 30818
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, HEAL, INDI, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Magahi Female Data Statistics
 
-Total Audio Duration:    51 hours:25 mins:22 secs
-Average Sample Duration: 6.007 secs
-Total Sentences:         30818
-Unique word Count:       49358
+- Total Audio Duration:    51 hours:25 mins:22 secs
+- Average Sample Duration: 6.007 secs
+- Total Sentences:         30818
+- Unique word Count:       49358
 
 #### Distribution of domains:
 
@@ -1307,28 +1307,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Magahi Female Data Attributes
 
-Type: Speech and Text
-Language(s): Magahi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MAGAHI_F_NHC
-Data Size (HH:MM:SS): 10 hours:7 mins:30 secs
-Data Size (# Sentences): 5755
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, HEAL, INDI, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Magahi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MAGAHI_F_NHC
+- Data Size (HH:MM:SS): 10 hours:7 mins:30 secs
+- Data Size (# Sentences): 5755
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EVAL, FINA, FOOD, HEAL, INDI, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Magahi Female Data Statistics
 
-Total Audio Duration:    10 hours:7 mins:30 secs
-Average Sample Duration: 6.334 secs
-Total Sentences:         5755
-Unique word Count:       18925
+- Total Audio Duration:    10 hours:7 mins:30 secs
+- Average Sample Duration: 6.334 secs
+- Total Sentences:         5755
+- Unique word Count:       18925
 
 #### Distribution of domains:
 
@@ -1355,28 +1355,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Maithili Male Data Attributes
 
-Type: Speech and Text
-Language(s): Maithili
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MAITHILI_M_HC
-Data Size (HH:MM:SS): 55 hours:50 mins:19 secs
-Data Size (# Sentences): 32156
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOOK, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Maithili
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MAITHILI_M_HC
+- Data Size (HH:MM:SS): 55 hours:50 mins:19 secs
+- Data Size (# Sentences): 32156
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOOK, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Maithili Male Data Statistics
 
-Total Audio Duration:    55 hours:50 mins:19 secs
-Average Sample Duration: 6.251 secs
-Total Sentences:         32156
-Unique word Count:       72581
+- Total Audio Duration:    55 hours:50 mins:19 secs
+- Average Sample Duration: 6.251 secs
+- Total Sentences:         32156
+- Unique word Count:       72581
 
 #### Distribution of domains:
 
@@ -1403,28 +1403,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Maithili Male Data Attributes
 
-Type: Speech and Text
-Language(s): Maithili
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MAITHILI_M_NHC
-Data Size (HH:MM:SS): 3 hours:27 mins:47 secs
-Data Size (# Sentences): 2060
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOOK, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Maithili
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MAITHILI_M_NHC
+- Data Size (HH:MM:SS): 3 hours:27 mins:47 secs
+- Data Size (# Sentences): 2060
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOOK, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Maithili Male Data Statistics
 
-Total Audio Duration:    3 hours:27 mins:47 secs
-Average Sample Duration: 6.052 secs
-Total Sentences:         2060
-Unique word Count:       11397
+- Total Audio Duration:    3 hours:27 mins:47 secs
+- Average Sample Duration: 6.052 secs
+- Total Sentences:         2060
+- Unique word Count:       11397
 
 #### Distribution of domains:
 
@@ -1450,28 +1450,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Maithili Female Data Attributes
 
-Type: Speech and Text
-Language(s): Maithili
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MAITHILI_F_HC
-Data Size (HH:MM:SS): 59 hours:40 mins:32 secs
-Data Size (# Sentences): 34412
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOOK, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Maithili
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MAITHILI_F_HC
+- Data Size (HH:MM:SS): 59 hours:40 mins:32 secs
+- Data Size (# Sentences): 34412
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOOK, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Maithili Female Data Statistics
 
-Total Audio Duration:    59 hours:40 mins:32 secs
-Average Sample Duration: 6.243 secs
-Total Sentences:         34412
-Unique word Count:       73522
+- Total Audio Duration:    59 hours:40 mins:32 secs
+- Average Sample Duration: 6.243 secs
+- Total Sentences:         34412
+- Unique word Count:       73522
 
 #### Distribution of domains:
 
@@ -1498,28 +1498,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Maithili Female Data Attributes
 
-Type: Speech and Text
-Language(s): Maithili
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MAITHILI_F_NHC
-Data Size (HH:MM:SS): 0 hours:54 mins:9 secs
-Data Size (# Sentences): 532
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOOK, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Maithili
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MAITHILI_F_NHC
+- Data Size (HH:MM:SS): 0 hours:54 mins:9 secs
+- Data Size (# Sentences): 532
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOOK, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Maithili Female Data Statistics
 
-Total Audio Duration:    0 hours:54 mins:9 secs
-Average Sample Duration: 6.108 secs
-Total Sentences:         532
-Unique word Count:       3523
+- Total Audio Duration:    0 hours:54 mins:9 secs
+- Average Sample Duration: 6.108 secs
+- Total Sentences:         532
+- Unique word Count:       3523
 
 #### Distribution of domains:
 
@@ -1546,28 +1546,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Marathi Male Data Attributes
 
-Type: Speech and Text
-Language(s): Marathi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MARATHI_M_HC
-Data Size (HH:MM:SS): 48 hours:38 mins:20 secs
-Data Size (# Sentences): 20763
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Marathi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MARATHI_M_HC
+- Data Size (HH:MM:SS): 48 hours:38 mins:20 secs
+- Data Size (# Sentences): 20763
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Marathi Male Data Statistics
 
-Total Audio Duration:    48 hours:38 mins:20 secs
-Average Sample Duration: 8.433 secs
-Total Sentences:         20763
-Unique word Count:       69867
+- Total Audio Duration:    48 hours:38 mins:20 secs
+- Average Sample Duration: 8.433 secs
+- Total Sentences:         20763
+- Unique word Count:       69867
 
 #### Distribution of domains:
 
@@ -1593,28 +1593,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Marathi Male Data Attributes
 
-Type: Speech and Text
-Language(s): Marathi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MARATHI_M_NHC
-Data Size (HH:MM:SS): 13 hours:8 mins:25 secs
-Data Size (# Sentences): 5202
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Marathi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MARATHI_M_NHC
+- Data Size (HH:MM:SS): 13 hours:8 mins:25 secs
+- Data Size (# Sentences): 5202
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Marathi Male Data Statistics
 
-Total Audio Duration:    13 hours:8 mins:25 secs
-Average Sample Duration: 9.094 secs
-Total Sentences:         5202
-Unique word Count:       30316
+- Total Audio Duration:    13 hours:8 mins:25 secs
+- Average Sample Duration: 9.094 secs
+- Total Sentences:         5202
+- Unique word Count:       30316
 
 #### Distribution of domains:
 
@@ -1640,28 +1640,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Marathi Female Data Attributes
 
-Type: Speech and Text
-Language(s): Marathi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MARATHI_F_HC
-Data Size (HH:MM:SS): 51 hours:3 mins:32 secs
-Data Size (# Sentences): 21790
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Marathi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MARATHI_F_HC
+- Data Size (HH:MM:SS): 51 hours:3 mins:32 secs
+- Data Size (# Sentences): 21790
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Marathi Female Data Statistics
 
-Total Audio Duration:    51 hours:3 mins:32 secs
-Average Sample Duration: 8.436 secs
-Total Sentences:         21790
-Unique word Count:       73547
+- Total Audio Duration:    51 hours:3 mins:32 secs
+- Average Sample Duration: 8.436 secs
+- Total Sentences:         21790
+- Unique word Count:       73547
 
 #### Distribution of domains:
 
@@ -1686,28 +1686,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Marathi Female Data Attributes
 
-Type: Speech and Text
-Language(s): Marathi
-Linguality: Monolingual
-Catalogue Id: SYSPIN_MARATHI_F_NHC
-Data Size (HH:MM:SS): 7 hours:53 mins:44 secs
-Data Size (# Sentences): 3077
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Marathi
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_MARATHI_F_NHC
+- Data Size (HH:MM:SS): 7 hours:53 mins:44 secs
+- Data Size (# Sentences): 3077
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Marathi Female Data Statistics
 
-Total Audio Duration:    7 hours:53 mins:44 secs
-Average Sample Duration: 9.238 secs
-Total Sentences:         3077
-Unique word Count:       20816
+- Total Audio Duration:    7 hours:53 mins:44 secs
+- Average Sample Duration: 9.238 secs
+- Total Sentences:         3077
+- Unique word Count:       20816
 
 #### Distribution of domains:
 
@@ -1733,28 +1733,28 @@ various domain specific sentences, conversational sentences and erroneous senten
 
 #### Telugu Male Data Attributes
 
-Type: Speech and Text
-Language(s): Telugu
-Linguality: Monolingual
-Catalogue Id: SYSPIN_TELUGU_M_HC
-Data Size (HH:MM:SS): 48 hours:20 mins:26 secs
-Data Size (# Sentences): 21463
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Telugu
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_TELUGU_M_HC
+- Data Size (HH:MM:SS): 48 hours:20 mins:26 secs
+- Data Size (# Sentences): 21463
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 ## Telugu Male Data Statistics
 
-Total Audio Duration:    48 hours:20 mins:26 secs
-Average Sample Duration: 8.108 secs
-Total Sentences:         21463
-Unique word Count:       89155
+- Total Audio Duration:    48 hours:20 mins:26 secs
+- Average Sample Duration: 8.108 secs
+- Total Sentences:         21463
+- Unique word Count:       89155
 
 #### Distribution of domains:
 
@@ -1779,28 +1779,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Telugu Male Data Attributes
 
-Type: Speech and Text
-Language(s): Telugu
-Linguality: Monolingual
-Catalogue Id: SYSPIN_TELUGU_M_NHC
-Data Size (HH:MM:SS): 8 hours:19 mins:31 secs
-Data Size (# Sentences): 3509
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Telugu
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_TELUGU_M_NHC
+- Data Size (HH:MM:SS): 8 hours:19 mins:31 secs
+- Data Size (# Sentences): 3509
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Telugu Male Data Statistics
 
-Total Audio Duration:    8 hours:19 mins:31 secs
-Average Sample Duration: 8.541 secs
-Total Sentences:         3509
-Unique word Count:       23890
+- Total Audio Duration:    8 hours:19 mins:31 secs
+- Average Sample Duration: 8.541 secs
+- Total Sentences:         3509
+- Unique word Count:       23890
 
 #### Distribution of domains:
 
@@ -1826,28 +1826,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Telugu Female Data Attributes
 
-Type: Speech and Text
-Language(s): Telugu
-Linguality: Monolingual
-Catalogue Id: SYSPIN_TELUGU_F_HC
-Data Size (HH:MM:SS): 57 hours:21 mins:9 secs
-Data Size (# Sentences): 22077
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOSC, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Telugu
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_TELUGU_F_HC
+- Data Size (HH:MM:SS): 57 hours:21 mins:9 secs
+- Data Size (# Sentences): 22077
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOSC, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Telugu Female Data Statistics
 
-Total Audio Duration:    57 hours:21 mins:9 secs
-Average Sample Duration: 9.352 secs
-Total Sentences:         22077
-Unique word Count:       79261
+- Total Audio Duration:    57 hours:21 mins:9 secs
+- Average Sample Duration: 9.352 secs
+- Total Sentences:         22077
+- Unique word Count:       79261
 
 #### Distribution of domains:
 
@@ -1872,28 +1872,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Telugu Female Data Attributes
 
-Type: Speech and Text
-Language(s): Telugu
-Linguality: Monolingual
-Catalogue Id: SYSPIN_TELUGU_F_NHC
-Data Size (HH:MM:SS): 1 hours:8 mins:31 secs
-Data Size (# Sentences): 367
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOSC, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Telugu
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_TELUGU_F_NHC
+- Data Size (HH:MM:SS): 1 hours:8 mins:31 secs
+- Data Size (# Sentences): 367
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, BOSC, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Telugu Female Data Statistics
 
-Total Audio Duration:    1 hours:8 mins:31 secs
-Average Sample Duration: 11.203 secs
-Total Sentences:         367
-Unique word Count:       4181
+- Total Audio Duration:    1 hours:8 mins:31 secs
+- Average Sample Duration: 11.203 secs
+- Total Sentences:         367
+- Unique word Count:       4181
 
 #### Distribution of domains:
 
