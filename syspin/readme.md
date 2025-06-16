@@ -1804,5 +1804,5 @@ We are particularly grateful to the project of German Development Cooperation 'F
 
 ## Contact Information
 
-SPIRE Lab, EE Dept., IISc, Bengaluru
-Email: contact.syspin@iisc.ac.in>
+SPIRE Lab, EE Dept., IISc, Bengaluru  
+Email: [contact.syspin@iisc.ac.in](mailto:contact.syspin@iisc.ac.in)
