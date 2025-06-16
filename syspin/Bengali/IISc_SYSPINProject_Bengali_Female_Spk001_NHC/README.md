@@ -10,27 +10,28 @@ included in the SYSPIN project.
 
 ## Bengali Female Data Attributes
 
-Type: Speech and Text
-Language(s): Bengali
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BENGALI_F_NHC
-Data Size (HH:MM:SS): 9 hours:29 mins:27 secs
-Data Size (# Sentences): 3853
-Data size (# Speakers): Female(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+Type: Speech and Text  
+Language(s): Bengali  
+Linguality: Monolingual  
+Catalogue Id: SYSPIN_BENGALI_F_NHC  
+Data Size (HH:MM:SS): 9 hours:29 mins:27 secs  
+Data Size (# Sentences): 3853  
+Data size (# Speakers): Female(1)  
+Speaker Tag: Spk0001  
+Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT  
+Annotation file availability: YES  
+Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
+Validation status: Not Validated  
+Data creator: Indian Institute of Sciences (IISc), Bengaluru  
+Year of publishing: 2024  
+Suggested research purpose/ areas: TTS  
 
 ---
 
 ## File Structure
 
 The corpus is organized into the following directory structure:
+```
 [Corpus_Root]/
 └── [Speaker_1]/
       ├──[wavs]
@@ -41,6 +42,7 @@ The corpus is organized into the following directory structure:
       │    └── [IISc_SYSPINProject<languageTag><genderTag><domainTag><uniqueID>.wav]
       ├── [IISc_SYSPINProject<languageTag><genderTag><speakerTag><qualityCheckTag>Transcripts.json]
       └── [IISc_SYSPINProject<languageTag><genderTag><speakerTag><qualityCheckTag>_readme.txt]
+```
 
 ---
 
@@ -72,25 +74,25 @@ various domain specific sentences, conversational sentences and erroneous senten
 
 ## Speaker MetaData
 
-Language: Bengali
-Gender: Female
-Age: 27
-Experience: 10 Years
-Languages known: Bengali, Hindi, English
-Mother tongue: Bengali
+Language: Bengali  
+Gender: Female  
+Age: 27  
+Experience: 10 Years  
+Languages known: Bengali, Hindi, English  
+Mother tongue: Bengali  
 
 ---
 
 ## Recording Setup
 
-Microphone: Neumann TLM-103
-Recording Environment: Professional studio
-Recording Conditions: Studio quality at ~40dB SNR
+Microphone: Neumann TLM-103  
+Recording Environment: Professional studio  
+Recording Conditions: Studio quality at ~40dB SNR  
 
 ---
 
 ## Transcription JSON Structure
-
+```
 Keys
 ├── MetaData (Project Information)
 ├── SpeakersMetaData (Speakers' Metadata)
@@ -104,6 +106,7 @@ Keys
         │ 			└──Domain
         │
         └──[...]
+```
 
 ---
 
@@ -142,6 +145,6 @@ voice artist in developing this TTS corpus.
 ## Contact Information
 
 SPIRE Lab, EE Dept., IISc, Bengaluru
-Email: contact.syspin@iisc.ac.in>
+Email: contact.syspin@iisc.ac.in
 
 ---

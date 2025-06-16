@@ -10,27 +10,28 @@ included in the SYSPIN project.
 
 ## Bengali Male Data Attributes
 
-Type: Speech and Text
-Language(s): Bengali
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BENGALI_M_HC
-Data Size (HH:MM:SS): 54 hours:29 mins:52 secs
-Data Size (# Sentences): 25234
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+Type: Speech and Text  
+Language(s): Bengali  
+Linguality: Monolingual  
+Catalogue Id: SYSPIN_BENGALI_M_HC  
+Data Size (HH:MM:SS): 54 hours:29 mins:52 secs  
+Data Size (# Sentences): 25234  
+Data size (# Speakers): Male(1)  
+Speaker Tag: Spk0001  
+Domains: AGRI, BOCU, BOOK, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT  
+Annotation file availability: YES  
+Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
+Validation status: Validated  
+Data creator: Indian Institute of Sciences (IISc), Bengaluru  
+Year of publishing: 2024  
+Suggested research purpose/ areas: TTS  
 
 ---
 
 ## File Structure
 
 The corpus is organized into the following directory structure:
+```
 [Corpus_Root]/
 └── [Speaker_1]/
       ├──[wavs]
@@ -41,15 +42,17 @@ The corpus is organized into the following directory structure:
       │    └── [IISc_SYSPINProject<languageTag><genderTag><domainTag><uniqueID>.wav]
       ├── [IISc_SYSPINProject<languageTag><genderTag><speakerTag><qualityCheckTag>Transcripts.json]
       └── [IISc_SYSPINProject<languageTag><genderTag><speakerTag><qualityCheckTag>_readme.txt]
+```
 
 ---
 
 ## Bengali Male Data Statistics
 
-Total Audio Duration:    54 hours:29 mins:52 secs
-Average Sample Duration: 7.775 secs
-Total Sentences:         25234
-Unique word Count:       76564
+Total Audio Duration:    54 hours:29 mins:52 secs  
+Average Sample Duration: 7.775 secs  
+Total Sentences:         25234  
+Unique word Count:       76564  
+
 Distribution of domains:
 | Domain   | Duration                 |   Count | Domain Description     |
 |:---------|:-------------------------|--------:|:-----------------------|
@@ -72,25 +75,25 @@ various domain specific sentences, conversational sentences and erroneous senten
 
 ## Speaker MetaData
 
-Language: Bengali
-Gender: Male
-Age: 42
-Experience: 9 Years
-Languages known: Bengali, Hindi, English
-Mother tongue: Bengali
+Language: Bengali  
+Gender: Male  
+Age: 42  
+Experience: 9 Years  
+Languages known: Bengali, Hindi, English  
+Mother tongue: Bengali  
 
 ---
 
 ## Recording Setup
 
-Microphone: Neumann TLM-103
-Recording Environment: Professional studio
-Recording Conditions: Studio quality at ~40dB SNR
+Microphone: Neumann TLM-103  
+Recording Environment: Professional studio  
+Recording Conditions: Studio quality at ~40dB SNR  
 
 ---
 
 ## Transcription JSON Structure
-
+```
 Keys
 ├── MetaData (Project Information)
 ├── SpeakersMetaData (Speakers' Metadata)
@@ -104,6 +107,7 @@ Keys
         │ 			└──Domain
         │
         └──[...]
+```
 
 ---
 
@@ -142,6 +146,6 @@ voice artist in developing this TTS corpus.
 ## Contact Information
 
 SPIRE Lab, EE Dept., IISc, Bengaluru
-Email: contact.syspin@iisc.ac.in>
+Email: contact.syspin@iisc.ac.in
 
 ---
