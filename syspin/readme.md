@@ -210,21 +210,21 @@ Mother tongue: Telugu
 
 #### Bhojpuri Male Data Attributes
 
-Type: Speech and Text
-Language(s): Bhojpuri
-Linguality: Monolingual
-Catalogue Id: SYSPIN_BHOJPURI_M_HC
-Data Size (HH:MM:SS): 47 hours:59 mins:1 secs
-Data Size (# Sentences): 26012
-Data size (# Speakers): Male(1)
-Speaker Tag: Spk0001
-Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2024
-Suggested research purpose/ areas: TTS
+- Type: Speech and Text
+- Language(s): Bhojpuri
+- Linguality: Monolingual
+- Catalogue Id: SYSPIN_BHOJPURI_M_HC
+- Data Size (HH:MM:SS): 47 hours:59 mins:1 secs
+- Data Size (# Sentences): 26012
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, EVAL, FINA, FOOD, HEAL, INDI, LOCA, POLI, SOCI, SPOR, TECH
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Bhojpuri Male Data Statistics
 
