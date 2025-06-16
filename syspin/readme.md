@@ -40,6 +40,27 @@ The corpus is organized into the following directory structure:
 
 ## Speakers' MetaData
 
+| Language       | Gender | Age | Experience | Mother Tongue | Languages Known                   |
+|----------------|--------|-----|------------|----------------|------------------------------------|
+| Bhojpuri       | Male   | 35  | 10 Years   | —              | Bhojpuri, Hindi                    |
+| Bhojpuri       | Female | 35  | 12 Years   | Bhojpuri       | Bhojpuri, Hindi                    |
+| Bengali        | Male   | 42  | 9 Years    | Bengali        | Bengali, Hindi, English           |
+| Bengali        | Female | 27  | 10 Years   | Bengali        | Bengali, Hindi, English           |
+| Chhattisgarhi  | Male   | 23  | 5 Years    | Chhattisgarhi  | Chhattisgarhi, Hindi              |
+| Chhattisgarhi  | Female | 52  | 25 Years   | Chhattisgarhi  | Chhattisgarhi, Hindi              |
+| Hindi          | Male   | 38  | 10 Years   | Hindi          | Hindi, English                    |
+| Hindi          | Female | 42  | 21 Years   | Hindi          | Hindi, English, Tamil             |
+| Kannada        | Male   | 39  | 13 Years   | Kannada        | Kannada, English                  |
+| Kannada        | Female | 39  | 16 Years   | Kannada        | Kannada, English                  |
+| Magahi         | Male   | 54  | 5 Years    | Magahi         | Magahi, Hindi, English            |
+| Magahi         | Female | 37  | 6 Years    | Magahi         | Magahi, Hindi                     |
+| Maithili       | Male   | 43  | 11 Years   | Maithili       | Maithili, Hindi                   |
+| Maithili       | Female | 30  | 1 Year     | Maithili       | Maithili, Hindi                   |
+| Marathi        | Male   | 52  | 5 Years    | Marathi        | Marathi, Hindi                    |
+| Marathi        | Female | 37  | 2 Years    | Marathi        | Marathi, Hindi, English           |
+| Telugu         | Male   | 63  | 25 Years   | Telugu         | Telugu, Kannada                   |
+| Telugu         | Female | 37  | 1 Year     | Telugu         | Telugu, English                   |
+
 #### Bhojpuri Male
 Language: Bhojpuri
 Gender: Male
