@@ -123,6 +123,21 @@ VCV boundaries were manually annotated using an in-house **MATLAB tool**, based 
 
 In ambiguous cases, annotators discussed and made a **unanimous decision**.
 
+## Speaker Information
+
+| #  | Subject | Age | Gender | Native Language | Name       |
+|----|---------|-----|--------|-----------------|------------|
+| 1  | F1      | 22  | Female | Bengali         | Anvesha    |
+| 2  | M1      | 21  | Male   | Tulu            | Vignesh    |
+| 3  | F2      | 27  | Female | Bengali         | Tanuka     |
+| 4  | M2      | 20  | Male   | Bengali         | Abhinav    |
+| 5  | F3      | 23  | Female | Tamil           | AparnaS    |
+| 6  | M3      | 21  | Male   | Tamil           | Shankar    |
+| 7  | F4      | 20  | Female | Kannada         | Aparna     |
+| 8  | M4      | 23  | Male   | Tamil           | Siddharth  |
+| 9  | F5      | 21  | Female | Malayalam       | Aishwarya  |
+| 10 | M5      | 20  | Male   | Hindi           | Gaurav     |
+
 ---
 ### Dataset loading instructions (example)
 
@@ -370,20 +385,6 @@ end
 ```
 ![Data overview ](images/image4.png)
 ---
-## Speaker Information
-
-| #  | Subject | Age | Gender | Native Language | Name       |
-|----|---------|-----|--------|-----------------|------------|
-| 1  | F1      | 22  | Female | Bengali         | Anvesha    |
-| 2  | M1      | 21  | Male   | Tulu            | Vignesh    |
-| 3  | F2      | 27  | Female | Bengali         | Tanuka     |
-| 4  | M2      | 20  | Male   | Bengali         | Abhinav    |
-| 5  | F3      | 23  | Female | Tamil           | AparnaS    |
-| 6  | M3      | 21  | Male   | Tamil           | Shankar    |
-| 7  | F4      | 20  | Female | Kannada         | Aparna     |
-| 8  | M4      | 23  | Male   | Tamil           | Siddharth  |
-| 9  | F5      | 21  | Female | Malayalam       | Aishwarya  |
-| 10 | M5      | 20  | Male   | Hindi           | Gaurav     |
 
 **Keywords:** VCV, speaking rate, EMA, corpus 
 
