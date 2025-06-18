@@ -1,15 +1,22 @@
 # SPIRE VCV
 
-**SPIRE VCV** is a comprehensive speech production database that includes simultaneous **acoustic** and **electromagnetic articulography (EMA)** data collected from non-native Indian English speakers. This corpus, named **SPIRE VCV**, provides valuable resources for acoustic-articulatory studies, particularly for investigations involving speaking rate variations.
+**SPIRE VCV** is a comprehensive speech production database that includes simultaneous **acoustic** and **electromagnetic articulography (EMA)** data collected from non-native Indian English speakers. This corpus, named **SPIRE VCV**, provides valuable resources for acoustic-articulatory studies, particularly for investigations involving speaking rate variations. This database also includes a basic articulatory analysis of consonants, highlighting how articulatory movements vary with speaking rate. Researchers can leverage this resource for a wide range of speech production and phonetic studies.
+
+- The stimuli consist of **nonsense, symmetrical VCV (Vowel-Consonant-Vowel) utterances** embedded in the sentence:  
+**"Speak VCV today"**  
+- These are spoken at **three different speaking rates** — slow, normal, and fast — with **three repetitions** each.
+- The VCV utterances consist of the combination of 
+  - 17 consonant sounds namely:
+    -   `C = {/b/, /ch/, /d/, /f/, /g/, /jh/, /k/, /l/, /m/, /n/, /ng/, /p/, /r/, /s/, /t/, /v/, /z/}`
+  - And 5 vowel sounds:
+    - ```V = { /a/, /e/, /i/, /o/, /u/ }```
+- 10 non-native English speakers (5 males, 5 females), aged 18–27 years, with no speech-related disorders.
+- Recordings were made in the sound damped studio at the [SPIRE Lab's speech recording facility](https://spire.ee.iisc.ac.in/src/ema.php). Acoustic and articulatory data were recorded directly to the computer and carefully synchronized.
+- VCV boundaries were manually annotated.
 
 ### Key Features of the SPIRE VCV Corpus:
 - **Simultaneous Acoustic and Articulatory Data:**  
 	The database includes synchronized recordings of speech audio and articulatory movements.
-
-- **VCV Stimuli:**  
-	Symmetrical **Vowel-Consonant-Vowel (VCV)** sequences comprising:
-	- **Vowels (5):** `/a/, /e/, /i/, /o/, /u/`
-	- **Consonants (17):** `/b/, /ch/, /d/, /f/, /g/, /jh/, /k/, /l/, /m/, /n/, /ng/, /p/, /r/, /s/, /t/, /v/, /z/`
 
 - **Speaking Rates:**  
 	Recordings were conducted at three distinct speaking rates:
@@ -38,18 +45,6 @@ The SPIRE VCV corpus is ideal for:
 - Speaking rate-specific investigations
 - Analysis of articulatory movement patterns across different speech rates
 
-This database also includes a basic articulatory analysis of consonants, highlighting how articulatory movements vary with speaking rate. Researchers can leverage this resource for a wide range of speech production and phonetic studies.
-
-The stimuli consist of **nonsense, symmetrical VCV (Vowel-Consonant-Vowel) utterances** embedded in the sentence:  
-**"Speak VCV today"**  
-These are spoken at **three different speaking rates** — slow, normal, and fast — with **three repetitions** each.
-
-### Phonetic Inventory
-- **Consonants (17):**  
-  `/b/, /ch/, /d/, /f/, /g/, /jh/, /k/, /l/, /m/, /n/, /ng/, /p/, /r/, /s/, /t/, /v/, /z/`
-- **Vowels (5):**  
-  `/a/, /e/, /i/, /o/, /u/`
-
 ### Speakers
 - **Total:** 10 non-native Indian English speakers (5 male, 5 female)  
 - **Age Range:** 18–27 years  
@@ -60,38 +55,40 @@ These are spoken at **three different speaking rates** — slow, normal, and fas
 
 ## Recording and Setup
 
-### Equipment
-- **Articulatory data:**  
-  Recorded using **AG501 3D Electromagnetic Articulograph (EMA)**
-- **Audio data:**  
-  Captured with **t.bone EM9600 shotgun unidirectional electret condenser microphone**
+- Articulatory movements were recorded using a 3D Electromagnetic Articulograph. (EMA) AG501.
+- A t.bone EM9600 shotgun unidirectional electret condenser microphone was placed near the subject to record the audio data synchronously with the articulatory data.
 
-### Sampling
-- **Audio:** Originally at **48 kHz**, then downsampled to **16 kHz**
+### Articulatory data:
+  - Recorded using 3D Electromagnetic Articulograph **(EMA AG501)**
+  - Sampled at 250 Hz.
+  - A 10th-order lowpass Chebyshev Type II filter with 40Hz cut-off frequency and 40 dB of stopband attenuation was used to low-pass filter the articulatory movement recording to eliminate the high-frequency noise resulting from EMA measurement error.
+- **Sensor placement**
+  - 6 sensors were placed on the different speech articulators namely:
+      - Upper Lip  
+      - Lower Lip  
+      - Jaw  
+      - Tongue Tip  
+      - Tongue Body  
+      - Tongue Dorsum  
+  - Sensors were also placed behind the left and right ear for the purpose of head movement correction.  
+  - Each of these 6 sensors captures the movements of the articulators in 3D space, resulting in eighteen articulatory features
+### Instructions to speaker:
+  - All speakers were college going students fluent with reading, writing and speaking English coming from different regions of India with different native language backgrounds.
+  - Speakers were given prior training to increase speaking rate gradually during the main recording.
+  - A GUI produces the stimuli to be uttered on screen and the user pronounces it for each of the three different speaking rates, namely slow, normal/habitual, and fast and three repetitions each.`
+### VCV Boundary annotation:
+- The VCV boundaries were manually annotated by a team of four members.
+- These boundaries were marked using an in-house built MATLAB annotation tool by observing the wideband spectrogram, the raw waveform and glottal pulses obtained using praat.
+- For unvoiced consonants: the last glottal pulse in the V1 region was considered for marking the onset of the C region, and the first glottal pulse at the start of V2 region was for considered marking the end of C-region, in tandem with the spectrogram.
+- For voiced consonants: the spectrogram with the formants and time domain waveform were considered for marking the consonant start and end boundaries.
+- For ambiguous cases, a unanimous call was then taken for the boundary marking after an internal discussion among the annotators.
+### Audio data:
+- A t.bone EM9600 shotgun unidirectional electret condenser microphone was placed near the subject to record the audio data synchronously with the articulatory data.
+- Originally recorded at 48 kHz then downsampled to 16 kHz.
 - **Articulatory:** Sampled at **250 Hz**
-
-### Preprocessing
-- **Filter:**  
-  A **10th-order Chebyshev Type II lowpass filter**  
-  - Cut-off: **40 Hz**  
-  - Stopband attenuation: **40 dB**  
-  - Purpose: To remove high-frequency noise from EMA
 
 ---
 
-## Sensor Placement
-
-Six sensors were attached to articulators to track 3D movement:
-- Upper Lip  
-- Lower Lip  
-- Jaw  
-- Tongue Tip  
-- Tongue Body  
-- Tongue Dorsum
-
-Additional sensors were placed **behind the left and right ear** to enable head movement correction.
-
-Each of the 6 articulator sensors records movement in 3D, resulting in **18 articulatory features** (6 sensors × 3 axes).
 
 ![Sensor positions](images/image.5.png)
 ---
@@ -100,10 +97,10 @@ Each of the 6 articulator sensors records movement in 3D, resulting in **18 arti
 
 - All speakers were trained prior to recording.
 - A GUI displayed each stimulus word on screen.
-- Each speaker pronounced the word at:
+- Each speaker pronounced the word at these rates:
   - **Slow**
   - **Normal/Habitual**
-  - **Fast** rates  
+  - **Fast** 
 - Each rate had **three repetitions** per stimulus.
 
 ---
@@ -396,5 +393,11 @@ If you use the SPIRE VCV corpus in your research, please cite the following pape
 
 T. Purohit, T. Umesh, S. Narayanan, M. S., and P. K. Ghosh, "SPIRE VCV: An Acoustic-Articulatory Corpus with Three Different Speaking Rates," *2021 24th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)*, Singapore, 2021, pp. 116-121.  
 DOI: [10.1109/O-COCOSDA202152914.2021.9660422](https://doi.org/10.1109/O-COCOSDA202152914.2021.9660422)
+
+### Publications
+Conferences (Accepted and/or Published):
+- Tilak Purohit, Achuth Rao M V, P. K. Ghosh, "Impact of speaking rate on the source filter Interaction in speech: a study", ICASSP 2021 [[PDF]](https://spire.ee.iisc.ac.in/assets/PDFs/papers_pdf/Tilak_ICASSP_2021.pdf)  [[Poster]](https://spire.ee.iisc.ac.in/assets/PDFs/paper_posters/Tilak_ICASSP_2021_Poster.pdf)
+- Tilak Purohit , P. K. Ghosh. , "An investigation of the virtual lip trajectories during the production of bilabial stops and nasal at different speaking rates", Interspeech 2020, Shanghai, China [[PDF]](https://www.isca-archive.org/interspeech_2020/purohit20_interspeech.pdf) [[Slides]](https://spire.ee.iisc.ac.in/assets/PDFs/slides/Tilak_IS_2020_slides.pdf) [[Presentation]](https://www.youtube.com/watch?v=c5jiZcIBSuw)
+Anusuya P, Aravind Illa, P. K. Ghosh,, "A Data Driven Phoneme-Specific Analysis of Articulatory Importance", International Seminar On Speech Production 2020 [[PDF]](https://spire.ee.iisc.ac.in/assets/PDFs/papers_pdf/Anusuya_ISSP_2020.pdf) [[Poster]](https://spire.ee.iisc.ac.in/assets/PDFs/papers_pdf/Anusuya_ISSP_2020_poster.pdf)
 
 
