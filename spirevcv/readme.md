@@ -57,7 +57,9 @@ The SPIRE VCV corpus is ideal for:
 
 - Articulatory movements were recorded using a 3D Electromagnetic Articulograph. (EMA) AG501.
 - A t.bone EM9600 shotgun unidirectional electret condenser microphone was placed near the subject to record the audio data synchronously with the articulatory data.
-
+### Audio data:
+- A t.bone EM9600 shotgun unidirectional electret condenser microphone was placed near the subject to record the audio data synchronously with the articulatory data.
+- Originally recorded at 48 kHz then downsampled to 16 kHz.
 ### Articulatory data:
   - Recorded using 3D Electromagnetic Articulograph **(EMA AG501)**
   - Sampled at 250 Hz.
@@ -82,9 +84,6 @@ The SPIRE VCV corpus is ideal for:
 - For unvoiced consonants: the last glottal pulse in the V1 region was considered for marking the onset of the C region, and the first glottal pulse at the start of V2 region was for considered marking the end of C-region, in tandem with the spectrogram.
 - For voiced consonants: the spectrogram with the formants and time domain waveform were considered for marking the consonant start and end boundaries.
 - For ambiguous cases, a unanimous call was then taken for the boundary marking after an internal discussion among the annotators.
-### Audio data:
-- A t.bone EM9600 shotgun unidirectional electret condenser microphone was placed near the subject to record the audio data synchronously with the articulatory data.
-- Originally recorded at 48 kHz then downsampled to 16 kHz.
 
 ---
 
