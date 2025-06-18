@@ -85,7 +85,6 @@ The SPIRE VCV corpus is ideal for:
 ### Audio data:
 - A t.bone EM9600 shotgun unidirectional electret condenser microphone was placed near the subject to record the audio data synchronously with the articulatory data.
 - Originally recorded at 48 kHz then downsampled to 16 kHz.
-- **Articulatory:** Sampled at **250 Hz**
 
 ---
 
