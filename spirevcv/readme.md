@@ -398,6 +398,6 @@ DOI: [10.1109/O-COCOSDA202152914.2021.9660422](https://doi.org/10.1109/O-COCOSDA
 Conferences (Accepted and/or Published):
 - Tilak Purohit, Achuth Rao M V, P. K. Ghosh, "Impact of speaking rate on the source filter Interaction in speech: a study", ICASSP 2021 [[PDF]](https://spire.ee.iisc.ac.in/assets/PDFs/papers_pdf/Tilak_ICASSP_2021.pdf)  [[Poster]](https://spire.ee.iisc.ac.in/assets/PDFs/paper_posters/Tilak_ICASSP_2021_Poster.pdf)
 - Tilak Purohit , P. K. Ghosh. , "An investigation of the virtual lip trajectories during the production of bilabial stops and nasal at different speaking rates", Interspeech 2020, Shanghai, China [[PDF]](https://www.isca-archive.org/interspeech_2020/purohit20_interspeech.pdf) [[Slides]](https://spire.ee.iisc.ac.in/assets/PDFs/slides/Tilak_IS_2020_slides.pdf) [[Presentation]](https://www.youtube.com/watch?v=c5jiZcIBSuw)
-Anusuya P, Aravind Illa, P. K. Ghosh,, "A Data Driven Phoneme-Specific Analysis of Articulatory Importance", International Seminar On Speech Production 2020 [[PDF]](https://spire.ee.iisc.ac.in/assets/PDFs/papers_pdf/Anusuya_ISSP_2020.pdf) [[Poster]](https://spire.ee.iisc.ac.in/assets/PDFs/papers_pdf/Anusuya_ISSP_2020_poster.pdf)
+- Anusuya P, Aravind Illa, P. K. Ghosh,, "A Data Driven Phoneme-Specific Analysis of Articulatory Importance", International Seminar On Speech Production 2020 [[PDF]](https://spire.ee.iisc.ac.in/assets/PDFs/papers_pdf/Anusuya_ISSP_2020.pdf) [[Poster]](https://spire.ee.iisc.ac.in/assets/PDFs/papers_pdf/Anusuya_ISSP_2020_poster.pdf)
 
 
