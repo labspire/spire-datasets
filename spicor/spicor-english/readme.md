@@ -276,4 +276,4 @@ We acknowledge the facility of IISc Studio in creating the TTS corpus.
 ## Contact Information
 
 SPIRE Lab, EE Dept., IISc, Bengaluru
-Email: spirelab.ee@iisc.ac.in>
+Email: spirelab.ee@iisc.ac.in
