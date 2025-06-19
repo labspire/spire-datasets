@@ -47,21 +47,21 @@ Keys
 
 #### Gujarati Male:
 
-Language: Gujarati  
-Gender: Male  
-Age: 23  
-Experience: 1 Year  
-Languages known: English, Hindi, Gujarati  
-Mother tongue: Gujarati  
+- Language: Gujarati
+- Gender: Male
+- Age: 23
+- Experience: 1 Year
+- Languages known: English, Hindi, Gujarati
+- Mother tongue: Gujarati
 
 #### Gujarati Female:
 
-Language: Gujarati  
-Gender: Female  
-Age: 33  
-Experience: 1 Year  
-Languages known: English, Hindi, Gujarati  
-Mother tongue: Gujarati  
+- Language: Gujarati
+- Gender: Female
+- Age: 33
+- Experience: 1 Year
+- Languages known: English, Hindi, Gujarati
+- Mother tongue: Gujarati
 
 ---
 
@@ -69,29 +69,28 @@ Mother tongue: Gujarati
 
 #### Data Attributes:
 
-Type: Speech and Text  
-Language(s): Gujarati  
-Linguality: Monolingual  
-Catalogue Id: SPICOR_GUJARATI_M_HC  
-Data Size (HH:MM:SS): 23 hours:38 mins:15 secs  
-Data Size (# Sentences): 7835  
-Data size (# Speakers): Male(1)  
-Speaker Tag: Spk0001  
-Domains: AGRI, CONV, ENTE, FEST, FINA, GENE, GMIN, HEAL, HIST, INCL, MICR, POLI, RELI, SCFI, SCIE, SPAC,
-SPOR, STBK, STOR  
-Annotation file availability: YES  
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
-Validation status: Validated  
-Data creator: Indian Institute of Science (IISc), Bengaluru  
-Year of publishing: 2024  
-Suggested research purpose/ areas: TTS  
+- Type: Speech and Text
+- Language(s): Gujarati
+- Linguality: Monolingual
+- Catalogue Id: SPICOR_GUJARATI_M_HC
+- Data Size (HH:MM:SS): 23 hours:38 mins:15 secs
+- Data Size (# Sentences): 7835
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, CONV, ENTE, FEST, FINA, GENE, GMIN, HEAL, HIST, INCL, MICR, POLI, RELI, SCFI, SCIE, SPAC,
+- SPOR, STBK, STOR
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Science (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Data Statistics:
-
-Total Audio Duration:    23 hours:38 mins:15 secs  
-Average Sample Duration: 10.862 secs  
-Total Sentences:         7835  
-Unique word Count:       42534  
+- Total Audio Duration:    23 hours:38 mins:15 secs
+- Average Sample Duration: 10.862 secs
+- Total Sentences:         7835
+- Unique word Count:       42534
 
 #### Distribution of domains:
 
@@ -125,29 +124,29 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Data Attributes:
 
-Type: Speech and Text  
-Language(s): Gujarati  
-Linguality: Monolingual  
-Catalogue Id: SPICOR_GUJARATI_F_HC  
-Data Size (HH:MM:SS): 33 hours:36 mins:54 secs  
-Data Size (# Sentences): 8243  
-Data size (# Speakers): Female(1)  
-Speaker Tag: Spk0001  
-Domains: AGRI, CONV, ENTE, FEST, FINA, GENE, GMIN, HEAL, HIST, INCL, MICR, POLI, RELI, SCFI, SCIE, SPAC,
-SPOR, STBK, STOR  
-Annotation file availability: YES  
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
-Validation status: Validated  
-Data creator: Indian Institute of Science (IISc), Bengaluru  
-Year of publishing: 2024  
-Suggested research purpose/ areas: TTS  
+- Type: Speech and Text
+- Language(s): Gujarati
+- Linguality: Monolingual
+- Catalogue Id: SPICOR_GUJARATI_F_HC
+- Data Size (HH:MM:SS): 33 hours:36 mins:54 secs
+- Data Size (# Sentences): 8243
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, CONV, ENTE, FEST, FINA, GENE, GMIN, HEAL, HIST, INCL, MICR, POLI, RELI, SCFI, SCIE, SPAC,
+- SPOR, STBK, STOR
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Science (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Data Statistics:
 
-Total Audio Duration:    33 hours:36 mins:54 secs  
-Average Sample Duration: 14.683 secs  
-Total Sentences:         8243  
-Unique word Count:       44369  
+- Total Audio Duration:    33 hours:36 mins:54 secs
+- Average Sample Duration: 14.683 secs
+- Total Sentences:         8243
+- Unique word Count:       44369
 
 #### Distribution of domains:
 
@@ -181,31 +180,31 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Data Attributes
 
-Type: Speech and Text  
-Language(s): Gujarati  
-Linguality: Monolingual  
-Catalogue Id: SPICOR_GUJARATI_M_NHC  
-Data Size (HH:MM:SS): 4 hours:48 mins:20 secs  
-Data Size (# Sentences): 1366  
-Data size (# Speakers): Male(1)  
-Speaker Tag: Spk0001  
-Domains: AGRI, CONV, ENTE, FEST, FINA, GENE, GMIN, HEAL, HIST, INCL, MICR, POLI, RELI, SCFI, SCIE, SPAC,
-SPOR, STBK, STOR  
-Annotation file availability: YES  
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
-Validation status: Not Validated  
-Data creator: Indian Institute of Science (IISc), Bengaluru  
-Year of publishing: 2024  
-Suggested research purpose/ areas: TTS  
+- Type: Speech and Text
+- Language(s): Gujarati
+- Linguality: Monolingual
+- Catalogue Id: SPICOR_GUJARATI_M_NHC
+- Data Size (HH:MM:SS): 4 hours:48 mins:20 secs
+- Data Size (# Sentences): 1366
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, CONV, ENTE, FEST, FINA, GENE, GMIN, HEAL, HIST, INCL, MICR, POLI, RELI, SCFI, SCIE, SPAC,
+- SPOR, STBK, STOR
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Science (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 ---
 
 #### Data Statistics
 
-Total Audio Duration:    4 hours:48 mins:20 secs  
-Average Sample Duration: 12.674 secs  
-Total Sentences:         1366  
-Unique word Count:       14026  
+- Total Audio Duration:    4 hours:48 mins:20 secs
+- Average Sample Duration: 12.674 secs
+- Total Sentences:         1366
+- Unique word Count:       14026
 
 ####Distribution of domains:
 
@@ -239,29 +238,29 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Data Attributes:
 
-Type: Speech and Text  
-Language(s): Gujarati  
-Linguality: Monolingual  
-Catalogue Id: SPICOR_GUJARATI_F_NHC  
-Data Size (HH:MM:SS): 3 hours:56 mins:2 secs  
-Data Size (# Sentences): 859  
-Data size (# Speakers): Female(1)  
-Speaker Tag: Spk0001  
-Domains: AGRI, CONV, ENTE, FEST, FINA, GENE, GMIN, HEAL, HIST, INCL, MICR, POLI, RELI, SCFI, SCIE, SPAC,
-SPOR, STBK, STOR  
-Annotation file availability: YES  
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
-Validation status: Not Validated  
-Data creator: Indian Institute of Science (IISc), Bengaluru  
-Year of publishing: 2024  
-Suggested research purpose/ areas: TTS  
+- Type: Speech and Text
+- Language(s): Gujarati
+- Linguality: Monolingual
+- Catalogue Id: SPICOR_GUJARATI_F_NHC
+- Data Size (HH:MM:SS): 3 hours:56 mins:2 secs
+- Data Size (# Sentences): 859
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, CONV, ENTE, FEST, FINA, GENE, GMIN, HEAL, HIST, INCL, MICR, POLI, RELI, SCFI, SCIE, SPAC,
+- SPOR, STBK, STOR
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Science (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Data Statistics:
 
-Total Audio Duration:    3 hours:56 mins:2 secs  
-Average Sample Duration: 16.507 secs  
-Total Sentences:         859  
-Unique word Count:       9859  
+- Total Audio Duration:    3 hours:56 mins:2 secs
+- Average Sample Duration: 16.507 secs
+- Total Sentences:         859
+- Unique word Count:       9859
 
 #### Distribution of domains:
 
@@ -291,9 +290,9 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 ## ## Recording Setup
 
-Microphone: ZOOM H6  
-Recording Environment: Professional studio  
-Recording Conditions: Studio quality at ~40dB SNR  
+- Microphone: ZOOM H6  
+- Recording Environment: Professional studio
+- Recording Conditions: Studio quality at ~40dB SNR
 
 ## Copyright and license
 

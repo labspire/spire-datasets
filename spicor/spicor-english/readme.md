@@ -44,21 +44,21 @@ The corpus is organized into the following directory structure:
 
 #### English Male:
 
-Language: English  
-Gender: Male  
-Age: 44  
-Experience: 6 Years  
-Languages known: English, Hindi, Maithilli  
-Mother tongue: Maithili  
+- Language: English
+- Gender: Male
+- Age: 44
+- Experience: 6 Years
+- Languages known: English, Hindi, Maithilli
+- Mother tongue: Maithili
 
 #### English Female:
 
-Language: English  
-Gender: Female  
-Age: 33  
-Experience: 7 Years  
-Languages known: English, Hindi, Kannada, Tamil  
-Mother tongue: Tamil  
+- Language: English
+- Gender: Female
+- Age: 33
+- Experience: 7 Years
+- Languages known: English, Hindi, Kannada, Tamil
+- Mother tongue: Tamil
 
 ---
 
@@ -66,28 +66,28 @@ Mother tongue: Tamil
 
 #### Data Attributes:
 
-Type: Speech and Text  
-Language(s): English  
-Linguality: Monolingual  
-Catalogue Id: SPICOR_ENGLISH_M_HC  
-Data Size (HH:MM:SS): 47 hours:52 mins:18 secs  
-Data Size (# Sentences): 25159  
-Data size (# Speakers): Male(1)  
-Speaker Tag: Spk0001  
-Domains: AGRI, ENTE, EVAL, FOOD, HEAL, LIBR, LJSP, OTHE, POLI, WEAT  
-Annotation file availability: YES  
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
-Validation status: Validated  
-Data creator: Indian Institute of Sciences (IISc), Bengaluru  
-Year of publishing: 2024  
-Suggested research purpose/ areas: TTS  
+- Type: Speech and Text
+- Language(s): English
+- Linguality: Monolingual
+- Catalogue Id: SPICOR_ENGLISH_M_HC
+- Data Size (HH:MM:SS): 47 hours:52 mins:18 secs
+- Data Size (# Sentences): 25159
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, ENTE, EVAL, FOOD, HEAL, LIBR, LJSP, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Science (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Data Statistics:
 
-Total Audio Duration:    47 hours:52 mins:18 secs  
-Average Sample Duration: 6.85 secs  
-Total Sentences:         25159  
-Unique word Count:       50273  
+- Total Audio Duration:    47 hours:52 mins:18 secs
+- Average Sample Duration: 6.85 secs
+- Total Sentences:         25159
+- Unique word Count:       50273
 
 #### Distribution of Domains:
 
@@ -112,28 +112,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Data Attributes:
 
-Type: Speech and Text  
-Language(s): English  
-Linguality: Monolingual  
-Catalogue Id: SPICOR_ENGLISH_F_HC  
-Data Size (HH:MM:SS): 49 hours:5 mins:16 secs  
-Data Size (# Sentences): 24058  
-Data size (# Speakers): Female(1)  
-Speaker Tag: Spk0001  
-Domains: AGRI, ENTE, EVAL, FOOD, HEAL, LIBR, LJSP, OTHE, POLI, WEAT  
-Annotation file availability: YES  
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
-Validation status: Validated  
-Data creator: Indian Institute of Sciences (IISc), Bengaluru  
-Year of publishing: 2024  
-Suggested research purpose/ areas: TTS  
+- Type: Speech and Text
+- Language(s): English
+- Linguality: Monolingual
+- Catalogue Id: SPICOR_ENGLISH_F_HC
+- Data Size (HH:MM:SS): 49 hours:5 mins:16 secs
+- Data Size (# Sentences): 24058
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, ENTE, EVAL, FOOD, HEAL, LIBR, LJSP, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Science (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Data Statistics:
 
-Total Audio Duration:    49 hours:5 mins:16 secs  
-Average Sample Duration: 7.346 secs  
-Total Sentences:         24058  
-Unique word Count:       49448  
+- Total Audio Duration:    49 hours:5 mins:16 secs
+- Average Sample Duration: 7.346 secs
+- Total Sentences:         24058
+- Unique word Count:       49448
 
 #### Distribution of Domains:
 
@@ -158,28 +158,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Data Attributes:
 
-Type: Speech and Text  
-Language(s): English  
-Linguality: Monolingual  
-Catalogue Id: SPICOR_ENGLISH_F_NHC  
-Data Size (HH:MM:SS): 2 hours:20 mins:31 secs  
-Data Size (# Sentences): 1178  
-Data size (# Speakers): Female(1)  
-Speaker Tag: Spk0001  
-Domains: AGRI, ENTE, EVAL, FOOD, HEAL, LIBR, LJSP, OTHE, POLI, WEAT  
-Annotation file availability: YES  
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
-Validation status: Not Validated  
-Data creator: Indian Institute of Sciences (IISc), Bengaluru  
-Year of publishing: 2024  
-Suggested research purpose/ areas: TTS  
+- Type: Speech and Text
+- Language(s): English
+- Linguality: Monolingual
+- Catalogue Id: SPICOR_ENGLISH_F_NHC
+- Data Size (HH:MM:SS): 2 hours:20 mins:31 secs
+- Data Size (# Sentences): 1178
+- Data size (# Speakers): Female(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, ENTE, EVAL, FOOD, HEAL, LIBR, LJSP, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Science (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Data Statistics:
 
-Total Audio Duration:    2 hours:20 mins:31 secs  
-Average Sample Duration: 7.163 secs  
-Total Sentences:         1178  
-Unique word Count:       7030  
+- Total Audio Duration:    2 hours:20 mins:31 secs
+- Average Sample Duration: 7.163 secs
+- Total Sentences:         1178
+- Unique word Count:       7030
 
 #### Distribution of Domains:
 
@@ -204,28 +204,28 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 #### Data Attributes:
 
-Type: Speech and Text  
-Language(s): English  
-Linguality: Monolingual  
-Catalogue Id: SPICOR_ENGLISH_M_NHC  
-Data Size (HH:MM:SS): 0 hours:8 mins:3 secs  
-Data Size (# Sentences): 77  
-Data size (# Speakers): Male(1)  
-Speaker Tag: Spk0001  
-Domains: AGRI, ENTE, HEAL, LIBR, LJSP, OTHE, POLI, WEAT  
-Annotation file availability: YES  
-Recording Specifications: 48 kHz, 24 bits per sample, Mono channel  
-Validation status: Not Validated  
-Data creator: Indian Institute of Science (IISc), Bengaluru  
-Year of publishing: 2024  
-Suggested research purpose/ areas: TTS  
+- Type: Speech and Text
+- Language(s): English
+- Linguality: Monolingual
+- Catalogue Id: SPICOR_ENGLISH_M_NHC
+- Data Size (HH:MM:SS): 0 hours:8 mins:3 secs
+- Data Size (# Sentences): 77
+- Data size (# Speakers): Male(1)
+- Speaker Tag: Spk0001
+- Domains: AGRI, ENTE, HEAL, LIBR, LJSP, OTHE, POLI, WEAT
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
+- Validation status: Not Validated
+- Data creator: Indian Institute of Science (IISc), Bengaluru
+- Year of publishing: 2024
+- Suggested research purpose/ areas: TTS
 
 #### Data Statistics:
 
-Total Audio Duration:    0 hours:8 mins:3 secs  
-Average Sample Duration: 6.368 secs  
-Total Sentences:         77  
-Unique word Count:       920  
+- Total Audio Duration:    0 hours:8 mins:3 secs
+- Average Sample Duration: 6.368 secs
+- Total Sentences:         77
+- Unique word Count:       920
 
 #### Distribution of Domains:
 
@@ -246,9 +246,9 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 
 ## Recording Setup
 
-Microphone: ZOOM H6  
-Recording Environment: Professional studio  
-Recording Conditions: Studio quality at ~40dB SNR  
+- Microphone: ZOOM H6
+- Recording Environment: Professional studio
+- Recording Conditions: Studio quality at ~40dB SNR
 
 ## Copyright and license
 
@@ -276,4 +276,4 @@ We acknowledge the facility of IISc Studio in creating the TTS corpus.
 ## Contact Information
 
 SPIRE Lab, EE Dept., IISc, Bengaluru
-Email: spirelab.ee@iisc.ac.in
+Email: spirelab.ee@iisc.ac.in>
