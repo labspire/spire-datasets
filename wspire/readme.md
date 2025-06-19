@@ -535,6 +535,14 @@ ID0[ID]_00[SET]_[GENDER]_[MODE]_[DEVICE]_[SENTNUM]
 - **Timestamp:**  
   `ID06_006_F_Neutral_Headset_11.lab`
 
+### Fields
+- **ID:** Speaker ID (e.g., `06`)
+- **SET:** Sentence set number (1–9)
+- **GENDER:** `M` for Male, `F` for Female
+- **MODE:** `Neutral` or `Whisper`
+- **DEVICE:** One of `Headset`, `Zoom`, `iPhone`, `Moto`, `Nokia`
+- **SENTNUM:** Sentence number in that set (1–50)
+
 ### Word Transcription:
 
 An example of word-level annotaion provided in wSPIRE. (.lab)
@@ -554,16 +562,6 @@ timestamp   timestamp
 1.940685	2.547389	escalator
 2.547389	2.614375	SIL
 ```
-
-
-### Fields
-- **ID:** Speaker ID (e.g., `06`)
-- **SET:** Sentence set number (1–9)
-- **GENDER:** `M` for Male, `F` for Female
-- **MODE:** `Neutral` or `Whisper`
-- **DEVICE:** One of `Headset`, `Zoom`, `iPhone`, `Moto`, `Nokia`
-- **SENTNUM:** Sentence number in that set (1–50)
-
 ---
 
 ## Speaker Information
