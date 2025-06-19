@@ -22,7 +22,7 @@ Domains: AGRI, BOSC, EDUC, EVAL, FINA, GENE, HEAL, OTHE, POLI, WEAT
 Annotation file availability: YES
 Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 Validation status: Not Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
+Data creator: Indian Institute of Science (IISc), Bengaluru
 Year of publishing: 2024
 Suggested research purpose/ areas: TTS
 

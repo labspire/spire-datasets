@@ -16,7 +16,7 @@ are made available to the public, promoting innovation in Automatic Speech Recog
 - Recording Specifications: 16 kHz, 16 bits per sample, Mono
 - Recording Format: WAV
 - Recording Environment: Natural
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purposes / areas: ASR, Language Identification, Dialect Identification, etc.
 

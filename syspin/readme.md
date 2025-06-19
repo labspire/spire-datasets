@@ -79,7 +79,7 @@ The corpus is organized into the following directory structure:
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -126,7 +126,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -173,7 +173,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -220,7 +220,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -267,7 +267,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -314,7 +314,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -361,7 +361,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -408,7 +408,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -455,7 +455,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -506,7 +506,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -557,7 +557,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -608,7 +608,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -659,7 +659,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -706,7 +706,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -753,7 +753,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -799,7 +799,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -845,7 +845,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -892,7 +892,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -939,7 +939,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -986,7 +986,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1033,7 +1033,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1081,7 +1081,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1128,7 +1128,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1176,7 +1176,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1224,7 +1224,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1272,7 +1272,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1319,7 +1319,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1367,7 +1367,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1415,7 +1415,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1462,7 +1462,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1509,7 +1509,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1555,7 +1555,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1602,7 +1602,7 @@ various domain specific sentences, conversational sentences and erroneous senten
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1648,7 +1648,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1695,7 +1695,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
@@ -1741,7 +1741,7 @@ Samples in EVALUATION domain are recommended for testing TTS models. These sampl
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 24 bits per sample, Mono channel
 - Validation status: Not Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2024
 - Suggested research purpose/ areas: TTS
 
