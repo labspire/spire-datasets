@@ -31,7 +31,7 @@ Suggested research purpose/ areas: Speech Recongnition
 ## File Structure
 
 The corpus is organized into the following directory structure:
-
+```
 [Corpus_Root]/
       ├──[IISc_SPIRE_SIES_Transcripts.csv]
       ├──[IISc_SPIRE_SIES_Image_Captions.csv]
@@ -41,7 +41,7 @@ The corpus is organized into the following directory structure:
             ├── [IISc_SPIRE_SIES_<speakerID>_<imageID>_<uniqueID>.wav]
             ├── [...]
             └── [IISc_SPIRE_SIES_<speakerID>_<imageID>_<uniqueID>.wav]
-
+```
 ---
 
 ## Data Statistics
@@ -171,7 +171,7 @@ fundamental to this project's success.
 ---
 
 ## Citation
-
+```bibtex
 @inproceedings{DBLP:conf/ococosda/SinghSVCG23,
   author={Abhayjeet Singh and Charu Shah and Rajashri Varadaraj and Sonakshi Chauhan and Prasanta Kumar Ghosh},
   title={SPIRE-SIES: A Spontaneous Indian English Speech Corpus},
@@ -182,6 +182,7 @@ fundamental to this project's success.
   booktitle={O-COCOSDA},
   crossref={conf/ococosda/2023}
 }
+```
 
 ---
 
