@@ -22,7 +22,7 @@ from WHISPER and then validated manually over multiple rounds.
 - Annotation file availability: YES
 - Recording Specifications: 48 kHz, 16 bits per sample, Mono channel
 - Validation status: Validated
-- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Data creator: Indian Institute of Science (IISc), Bengaluru
 - Year of publishing: 2023
 - Suggested research purpose/ areas: Speech Recongnition
 
