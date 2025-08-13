@@ -12,19 +12,19 @@ from WHISPER and then validated manually over multiple rounds.
 
 ## Data Attributes
 
-Type: Speech and Text
-Speech Type: Spontaneous
-Language(s): English
-Linguality: Monolingual
-Data Size (HH:MM:SS): 166 hours:28 mins:54 secs
-Data Size (# Sentences): 41295
-Data size (# Speakers): Male (815), Female (743), Other (9)
-Annotation file availability: YES
-Recording Specifications: 48 kHz, 16 bits per sample, Mono channel
-Validation status: Validated
-Data creator: Indian Institute of Sciences (IISc), Bengaluru
-Year of publishing: 2023
-Suggested research purpose/ areas: Speech Recongnition
+- Type: Speech and Text
+- Speech Type: Spontaneous
+- Language(s): English
+- Linguality: Monolingual
+- Data Size (HH:MM:SS): 166 hours:28 mins:54 secs
+- Data Size (# Sentences): 41295
+- Data size (# Speakers): Male (815), Female (743), Other (9)
+- Annotation file availability: YES
+- Recording Specifications: 48 kHz, 16 bits per sample, Mono channel
+- Validation status: Validated
+- Data creator: Indian Institute of Sciences (IISc), Bengaluru
+- Year of publishing: 2023
+- Suggested research purpose/ areas: Speech Recongnition
 
 ---
 
