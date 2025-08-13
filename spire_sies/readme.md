@@ -86,12 +86,8 @@ File_Name, Transcript
 
 In our transcription there are 2 types of tags:
 1. paried : <tag></tag>
-2. unpaired : <tag>
-Here is the list of all the tags used to capture speech spontaneity 
-and other features/noises:
-
-Here's the properly arranged and deduplicated list of transcription
-tags, categorized for clarity:
+2. unpaired : <tag>  
+Here is a comprehensive list of all transcription tags used to annotate speech spontaneity, vocalizations, and environmental sounds. Tags are grouped by category for clarity:
 
 ### Human Vocalizations
 1. `[humming]`
