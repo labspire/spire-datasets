@@ -46,10 +46,11 @@ The corpus is organized into the following directory structure:
 
 ## Data Statistics
 
-Total Audio Duration:    166 hours:28 mins:54 secs
-Average Sample Duration: 14.51 secs
-Total Sentences:         41295
-Unique word Count:       27057
+- Total Audio Duration:    166 hours:28 mins:54 secs
+- Average Sample Duration: 14.51 secs
+- Total Sentences:         41295
+- Unique word Count:       27057
+
 Distribution over Speakers' nativity and genders:
 
 | Nativity  | Duration                 | Genders        |
