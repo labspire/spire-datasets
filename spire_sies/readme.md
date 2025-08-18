@@ -1,12 +1,6 @@
 ## SPIRE-SIES CORPUS
 
-SPIRE-SIES provides 166 hours of annotated Indian English spontaneous 
-speech data. This corpus is crowd-sourced from 1567 speakers belonging
-to varied 18 Indian nativities, genders and age groups. Traditional
-spontaneous speech collection strategies involve capturing of speech
-during interviewing or conversations. But, we use images as stimuli
-to induce spontaneity in speech. Transcripts are intially generated
-from WHISPER and then validated manually over multiple rounds.
+SPIRE-SIES provides 166 hours of annotated Indian English spontaneous speech data. This corpus is crowd-sourced from 1567 speakers belonging to varied 18 Indian nativities, genders and age groups. Traditional spontaneous speech collection strategies involve capturing of speech during interviewing or conversations. But, we use images as stimuli to induce spontaneity in speech. Transcripts are intially generated from WHISPER and then validated manually over multiple rounds.
 
 ---
 
