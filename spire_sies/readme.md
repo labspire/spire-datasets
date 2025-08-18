@@ -80,8 +80,8 @@ File_Name, Transcript
 ## Tags in Transcription
 
 In our transcription there are 2 types of tags:
-1. paried : <tag></tag>
-2. unpaired : <tag>  
+1. paried : `<tag></tag>`
+2. unpaired : `<tag>`  
 Here is a comprehensive list of all transcription tags used to annotate speech spontaneity, vocalizations, and environmental sounds. Tags are grouped by category for clarity:
 
 ### Human Vocalizations
