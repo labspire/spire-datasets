@@ -1,6 +1,8 @@
 ## SYSPIN TTS CORPUS
 
-As a part of the SYSPIN project, studio-recorded TTS data is being released for 9 Indian languages with 2 speakers each (Male and Female). Validated audio and text files are made available to the public. This will potentially open up opportunities for academic researchers, students, small and large-scale industries and research labs to innovate and develop algorithms and text-to-speech synthesizers in all the Indian languages included in the SYSPIN project.
+As a part of the SYSPIN project, studio-recorded TTS data is being released for 9 Indian languages with 2 speakers each (Male and Female). Validated audio and text files are made available to the public. This will potentially open up opportunities for academic researchers, students, small and large-scale industries and research labs to innovate and develop algorithms and text-to-speech synthesizers in all the Indian languages included in the SYSPIN project.  
+
+The SYSPIN data respects privacy of the speaker and removes PII information before open-sourcing following THE DIGITAL PERSONAL DATA PROTECTION ACT, 2023 https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf
 
 ---
 
